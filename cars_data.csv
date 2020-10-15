@@ -1,0 +1,7037 @@
+,price,mileage,registration_date,engine_power,brand,model,registration_year,colour,type,fuel_type,is_after_accident,engine_size
+0,"
+€ 3.900,-
+",52.000 km,12/2008,57 kW,Hyundai,i20,2008,Rot,Limousine,Super 95,"
+09/2019
+","
+1.248 cm³
+"
+1,"
+€ 4.785,-
+",89.111 km,09/2008,57 kW,Hyundai,i20,2008,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+2,"
+€ 6.990,-
+",107.000 km,01/2008,74 kW,Hyundai,i20,2008,Schwarz,Kleinwagen,Super 95,,no_data
+3,"
+€ 7.777,-
+",104.000 km,03/2009,74 kW,Hyundai,i20,2009,Blau,Limousine,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+4,"
+€ 4.440,-
+",128.800 km,08/2009,57 kW,Hyundai,i20,2009,Blau,Kleinwagen,Super 95,no_data_about_accident,no_data
+5,"
+€ 4.590,-
+",84.147 km,03/2009,57 kW,Hyundai,i20,2009,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+6,"
+€ 1.750,-
+",198.000 km,08/2009,57 kW,Hyundai,i20,2009,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+7,"
+€ 1.750,-
+",153.900 km,08/2009,57 kW,Hyundai,i20,2009,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+8,"
+€ 1.990,-
+",182.000 km,05/2009,57 kW,Hyundai,i20,2009,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+9,"
+€ 1.990,-
+",170.117 km,09/2009,57 kW,Hyundai,i20,2009,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+10,"
+€ 1.990,-
+",211.812 km,03/2009,57 kW,Hyundai,i20,2009,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+11,"
+€ 1.999,-
+",140.000 km,07/2009,57 kW,Hyundai,i20,2009,Blau,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+12,"
+€ 2.299,-
+",86.000 km,09/2009,74 kW,Hyundai,i20,2009,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+13,"
+€ 2.300,-
+",110.000 km,08/2009,74 kW,Hyundai,i20,2009,Gold,Limousine,Benzin,,"
+1.396 cm³
+"
+14,"
+€ 2.399,-
+",193.700 km,02/2009,57 kW,Hyundai,i20,2009,Limousine,Schaltgetriebe,,no_data_about_accident,no_data
+15,"
+€ 2.500,-
+",115.256 km,11/2009,57 kW,Hyundai,i20,2009,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+16,"
+€ 2.600,-
+",143.480 km,07/2009,57 kW,Hyundai,i20,2009,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+17,"
+€ 2.700,-
+",123.716 km,09/2009,57 kW,Hyundai,i20,2009,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+18,"
+€ 2.780,-
+",99.052 km,02/2009,57 kW,Hyundai,i20,2009,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+19,"
+€ 3.000,-
+",140.000 km,05/2009,57 kW,Hyundai,i20,2009,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+20,"
+€ 3.000,-
+",123.784 km,10/2009,55 kW,Hyundai,i20,2009,Rot,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.398 cm³
+"
+21,"
+€ 3.100,-
+",135.140 km,03/2009,74 kW,Hyundai,i20,2009,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+22,"
+€ 3.150,-
+",142.123 km,10/2009,57 kW,Hyundai,i20,2009,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+23,"
+€ 3.300,-
+",90.160 km,03/2009,57 kW,Hyundai,i20,2009,Rot,Limousine,Benzin,no_data_about_accident,no_data
+24,"
+€ 3.300,-
+",93.000 km,11/2009,57 kW,Hyundai,i20,2009,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+25,"
+€ 3.350,-
+",120.000 km,09/2009,74 kW,Hyundai,i20,2009,Blau,Kleinwagen,Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,,"
+1.396 cm³
+"
+26,"
+€ 3.390,-
+",87.000 km,02/2009,57 kW,Hyundai,i20,2009,Rot,Kleinwagen,Super 95,,no_data
+27,"
+€ 3.490,-
+",41.300 km,09/2009,57 kW,Hyundai,i20,2009,Grün,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+28,"
+€ 3.490,-
+",149.808 km,08/2009,57 kW,Hyundai,i20,2009,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+29,"
+€ 3.499,-
+",108.000 km,05/2009,57 kW,Hyundai,i20,2009,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+30,"
+€ 3.500,-
+",111.300 km,09/2009,74 kW,Hyundai,i20,2009,Blau,Limousine,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+31,"
+€ 3.500,-
+",118.000 km,06/2009,57 kW,Hyundai,i20,2009,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+32,"
+€ 3.699,-
+",73.547 km,05/2009,57 kW,Hyundai,i20,2009,Grau,Limousine,Benzin,no_data_about_accident,no_data
+33,"
+€ 3.700,-
+",89.980 km,05/2009,57 kW,Hyundai,i20,2009,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+34,"
+€ 3.750,-
+",148.284 km,05/2009,57 kW,Hyundai,i20,2009,Silber,Kleinwagen,Benzin,no_data_about_accident,"
+4
+"
+35,"
+€ 3.790,-
+",110.300 km,10/2009,74 kW,Hyundai,i20,2009,Grün,Limousine,Benzin,,no_data
+36,"
+€ 3.850,-
+",125.000 km,07/2009,57 kW,Hyundai,i20,2009,Grün,Limousine,Benzin,no_data_about_accident,no_data
+37,"
+€ 3.890,-
+",120.334 km,11/2009,74 kW,Hyundai,i20,2009,Grün,Kleinwagen,Super 95,no_data_about_accident,no_data
+38,"
+€ 3.950,-
+",108.200 km,02/2009,57 kW,Hyundai,i20,2009,Rot,Kleinwagen,Super 95,,no_data
+39,"
+€ 3.990,-
+",116.150 km,05/2009,74 kW,Hyundai,i20,2009,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.396 cm³
+"
+40,"
+€ 3.990,-
+",108.701 km,06/2009,57 kW,Hyundai,i20,2009,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+41,"
+€ 3.990,-
+",99.847 km,09/2009,57 kW,Hyundai,i20,2009,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+42,"
+€ 3.999,-
+",113.000 km,06/2009,57 kW,Hyundai,i20,2009,Grau,Limousine,Benzin,,no_data
+43,"
+€ 3.999,-
+",122.000 km,11/2009,57 kW,Hyundai,i20,2009,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+44,"
+€ 4.000,-
+",67.500 km,07/2009,57 kW,Hyundai,i20,2009,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+45,"
+€ 4.199,-
+",75.000 km,05/2009,57 kW,Hyundai,i20,2009,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+46,"
+€ 4.444,-
+",119.224 km,06/2009,74 kW,Hyundai,i20,2009,Grau,Limousine,Benzin,no_data_about_accident,no_data
+47,"
+€ 4.450,-
+",59.700 km,12/2009,74 kW,Hyundai,i20,2009,Kleinwagen,Schaltgetriebe,,no_data_about_accident,"
+1.396 cm³
+"
+48,"
+€ 4.450,-
+",124.576 km,02/2009,74 kW,Hyundai,i20,2009,Rot,Limousine,Benzin,,no_data
+49,"
+€ 4.750,-
+",87.000 km,07/2009,57 kW,Hyundai,i20,2009,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+50,,119.000 km,03/2009,74 kW,Hyundai,i20,2009,Silber,Limousine,Super 95,,no_data
+51,"
+€ 4.990,-
+",49.000 km,08/2009,74 kW,Hyundai,i20,2009,Silber,Limousine,Benzin,"
+08/2020
+","
+1.396 cm³
+"
+52,"
+€ 4.990,-
+",81.270 km,03/2009,57 kW,Hyundai,i20,2009,Rot,Limousine,Super 95,no_data_about_accident,no_data
+53,"
+€ 4.999,-
+",119.000 km,02/2009,57 kW,Hyundai,i20,2009,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+54,"
+€ 5.000,-
+",74.000 km,07/2009,57 kW,Hyundai,i20,2009,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+55,"
+€ 5.000,-
+",98.000 km,10/2009,57 kW,Hyundai,i20,2009,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+56,"
+€ 5.990,-
+",48.183 km,07/2009,74 kW,Hyundai,i20,2009,Grau,Limousine,Super 95,,"
+1.396 cm³
+"
+57,"
+€ 4.990,-
+",79.826 km,12/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+58,"
+€ 2.900,-
+",110.779 km,11/2010,57 kW,Hyundai,i20,2010,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+59,"
+€ 5.900,-
+",24.500 km,10/2010,57 kW,Hyundai,i20,2010,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+60,"
+€ 1.600,-
+",194.000 km,01/2010,57 kW,Hyundai,i20,2010,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+61,"
+€ 2.480,-
+",187.500 km,07/2010,55 kW,Hyundai,i20,2010,Grau,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+62,"
+€ 2.600,-
+",168.000 km,10/2010,66 kW,Hyundai,i20,2010,Silber,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+63,"
+€ 2.600,-
+",149.960 km,02/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+64,"
+€ 2.700,-
+",169.000 km,10/2010,57 kW,Hyundai,i20,2010,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+65,"
+€ 2.750,-
+",198.400 km,08/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Super 95 (Rußpartikelfilter),no_data_about_accident,no_data
+66,"
+€ 2.790,-
+",127.500 km,03/2010,57 kW,Hyundai,i20,2010,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+67,"
+€ 2.800,-
+",67.000 km,12/2010,57 kW,Hyundai,i20,2010,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+68,"
+€ 2.850,-
+",170.000 km,09/2010,57 kW,Hyundai,i20,2010,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+69,"
+€ 2.900,-
+",122.820 km,07/2010,57 kW,Hyundai,i20,2010,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+70,"
+€ 2.980,-
+",149.863 km,08/2010,57 kW,Hyundai,i20,2010,Grün,Kleinwagen,Super 95,no_data_about_accident,no_data
+71,"
+€ 2.999,-
+",153.460 km,08/2010,57 kW,Hyundai,i20,2010,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+72,"
+€ 2.999,-
+",145.000 km,02/2010,57 kW,Hyundai,i20,2010,Rot,Kleinwagen,Benzin,no_data_about_accident,no_data
+73,"
+€ 3.000,-
+",103.000 km,10/2010,57 kW,Hyundai,i20,2010,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+74,"
+€ 3.100,-
+",162.000 km,10/2010,55 kW,Hyundai,i20,2010,Rot,Limousine,Diesel (Rußpartikelfilter),,"
+1.396 cm³
+"
+75,"
+€ 3.199,-
+",76.000 km,08/2010,57 kW,Hyundai,i20,2010,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+76,,114.500 km,03/2010,57 kW,Hyundai,i20,2010,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+77,"
+€ 3.390,-
+",115.000 km,04/2010,57 kW,Hyundai,i20,2010,Rot,Limousine,Benzin,,no_data
+78,"
+€ 3.399,-
+",119.997 km,10/2010,57 kW,Hyundai,i20,2010,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+79,"
+€ 3.400,-
+",100.000 km,09/2010,57 kW,Hyundai,i20,2010,Weiß,Limousine,Super 95,,no_data
+80,"
+€ 3.400,-
+",76.866 km,05/2010,57 kW,Hyundai,i20,2010,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+81,"
+€ 3.450,-
+",126.000 km,06/2010,57 kW,Hyundai,i20,2010,Weiß,Limousine,Normal/Benzin 91 / Super 95,,"
+1.248 cm³
+"
+82,"
+€ 3.499,-
+",90.000 km,03/2010,57 kW,Hyundai,i20,2010,Grau,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+83,"
+€ 3.500,-
+",109.000 km,08/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Benzin,,no_data
+84,"
+€ 3.500,-
+",107.000 km,03/2010,57 kW,Hyundai,i20,2010,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+85,"
+€ 3.880,-
+",98.000 km,11/2010,57 kW,Hyundai,i20,2010,Rot,Kleinwagen,Flüssiggas/Autogas (LPG),no_data_about_accident,no_data
+86,"
+€ 3.890,-
+",132.670 km,08/2010,57 kW,Hyundai,i20,2010,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+87,"
+€ 3.999,-
+",86.300 km,09/2010,57 kW,Hyundai,i20,2010,Weiß,Limousine,Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,"
+09/2020
+","
+1.248 cm³
+"
+88,"
+€ 4.100,-
+",87.000 km,06/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+89,"
+€ 4.199,-
+",82.000 km,05/2010,57 kW,Hyundai,i20,2010,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+90,"
+€ 4.300,-
+",92.200 km,04/2010,57 kW,Hyundai,i20,2010,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+91,"
+€ 4.600,-
+",71.000 km,12/2010,57 kW,Hyundai,i20,2010,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+92,"
+€ 4.690,-
+",70.000 km,01/2010,57 kW,Hyundai,i20,2010,Silber,Limousine,Normal/Benzin 91 / Super 95 / Super Plus 98,"
+09/2020
+","
+1.248 cm³
+"
+93,"
+€ 4.750,-
+",127.383 km,03/2010,57 kW,Hyundai,i20,2010,Grün,Kleinwagen,Benzin,no_data_about_accident,no_data
+94,"
+€ 4.850,-
+",78.450 km,02/2010,74 kW,Hyundai,i20,2010,Rot,Limousine,Normal/Benzin 91 / Normal/Benzin E10 91 / Super 95 / Super E10 95,,"
+1.396 cm³
+"
+95,"
+€ 4.950,-
+",76.000 km,12/2010,57 kW,Hyundai,i20,2010,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+96,"
+€ 4.980,-
+",48.000 km,06/2010,57 kW,Hyundai,i20,2010,Rot,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+97,"
+€ 4.990,-
+",45.800 km,10/2010,57 kW,Hyundai,i20,2010,Blau,Limousine,Super 95,no_data_about_accident,no_data
+98,"
+€ 4.990,-
+",77.112 km,09/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Super 95,,no_data
+99,"
+€ 4.999,-
+",133.000 km,09/2010,57 kW,Hyundai,i20,2010,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+100,"
+€ 4.999,-
+",69.200 km,01/2010,57 kW,Hyundai,i20,2010,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+101,"
+€ 5.490,-
+",100.000 km,03/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+102,"
+€ 5.490,-
+",100.000 km,03/2010,57 kW,Hyundai,i20,2010,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+103,"
+€ 5.490,-
+",51.990 km,09/2010,57 kW,Hyundai,i20,2010,Blau,Kleinwagen,Super 95,no_data_about_accident,no_data
+104,"
+€ 5.499,-
+",60.000 km,01/2010,57 kW,Hyundai,i20,2010,Grün,Kleinwagen,Normal/Benzin 91 / Super 95,"
+12 Monate
+","
+1.248 cm³
+"
+105,"
+€ 5.990,-
+",91.596 km,11/2010,74 kW,Hyundai,i20,2010,Silber,Kleinwagen,Super 95,,no_data
+106,"
+€ 10.555,-
+",167.000 km,02/2010,57 kW,Hyundai,i20,2010,Blau,Limousine,Flüssiggas/Autogas (LPG),no_data_about_accident,"
+1.248 cm³
+"
+107,"
+€ 4.780,-
+",100.000 km,04/2011,74 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,,no_data
+108,"
+€ 4.200,-
+",74.900 km,03/2011,57 kW,Hyundai,i20,2011,Silber,Kleinwagen,Normal/Benzin 91,no_data_about_accident,"
+1.248 cm³
+"
+109,"
+€ 2.450,-
+",185.000 km,04/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+110,"
+€ 2.490,-
+",157.000 km,04/2011,57 kW,Hyundai,i20,2011,Rot,Kleinwagen,Super 95,,no_data
+111,"
+€ 2.900,-
+",105.000 km,05/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+112,"
+€ 3.000,-
+",162.700 km,02/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,,no_data
+113,"
+€ 3.100,-
+",103.500 km,07/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+114,"
+€ 3.199,-
+",128.000 km,08/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Benzin,,no_data
+115,"
+€ 3.200,-
+",159.000 km,02/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+116,"
+€ 3.299,-
+",90.800 km,11/2011,57 kW,Hyundai,i20,2011,Weiß,Kleinwagen,Super 95,,no_data
+117,"
+€ 3.300,-
+",100.000 km,02/2011,57 kW,Hyundai,i20,2011,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+118,"
+€ 3.400,-
+",104.000 km,04/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+119,"
+€ 3.400,-
+",130.100 km,06/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+120,"
+€ 3.400,-
+",130.100 km,08/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+121,"
+€ 3.400,-
+",174.000 km,11/2011,66 kW,Hyundai,i20,2011,Silber,Limousine,Diesel,,"
+1.396 cm³
+"
+122,"
+€ 3.450,-
+",148.000 km,08/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+123,"
+€ 3.490,-
+",150.000 km,07/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,,no_data_about_accident,no_data
+124,"
+€ 3.490,-
+",113.000 km,02/2011,57 kW,Hyundai,i20,2011,Silber,Kleinwagen,Super 95,,no_data
+125,"
+€ 3.490,-
+",165.000 km,10/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Benzin,no_data_about_accident,no_data
+126,"
+€ 3.499,-
+",91.000 km,02/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+127,"
+€ 3.500,-
+",103.300 km,08/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+128,"
+€ 3.600,-
+",95.000 km,12/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+129,"
+€ 3.650,-
+",97.000 km,10/2011,57 kW,Hyundai,i20,2011,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+130,"
+€ 3.650,-
+",137.000 km,05/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+131,"
+€ 3.690,-
+",50.500 km,04/2011,57 kW,Hyundai,i20,2011,Kleinwagen,Schaltgetriebe,,no_data_about_accident,"
+Front
+"
+132,"
+€ 3.750,-
+",123.141 km,08/2011,57 kW,Hyundai,i20,2011,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+133,"
+€ 3.790,-
+",97.137 km,06/2011,57 kW,Hyundai,i20,2011,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+134,"
+€ 3.899,-
+",109.124 km,08/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+135,"
+€ 3.950,-
+",151.414 km,11/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+136,"
+€ 3.990,-
+",95.560 km,06/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+137,"
+€ 3.990,-
+",195.634 km,12/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+138,"
+€ 3.999,-
+",119.000 km,09/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+139,"
+€ 4.000,-
+",93.400 km,05/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+140,"
+€ 4.200,-
+",113.900 km,07/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+141,"
+€ 4.290,-
+",111.702 km,04/2011,57 kW,Hyundai,i20,2011,Rot,Kleinwagen,Flüssiggas/Autogas (LPG),no_data_about_accident,no_data
+142,"
+€ 4.390,-
+",129.000 km,03/2011,57 kW,Hyundai,i20,2011,Grau,Kleinwagen,Super 95,,"
+4
+"
+143,"
+€ 4.400,-
+",97.000 km,01/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,"
+36 Monate
+",no_data
+144,"
+€ 4.400,-
+",66.450 km,09/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+145,"
+€ 4.490,-
+",85.000 km,07/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Benzin,,no_data
+146,"
+€ 4.490,-
+",142.225 km,11/2011,57 kW,Hyundai,i20,2011,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+147,"
+€ 4.500,-
+",100.000 km,06/2011,74 kW,Hyundai,i20,2011,Blau,Limousine,Benzin,,no_data
+148,"
+€ 4.500,-
+",135.000 km,05/2011,57 kW,Hyundai,i20,2011,Silber,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+149,"
+€ 4.600,-
+",100.000 km,11/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+150,"
+€ 4.650,-
+",102.974 km,12/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+151,"
+€ 4.690,-
+",109.000 km,11/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,,no_data_about_accident,"
+4
+"
+152,"
+€ 4.700,-
+",53.300 km,11/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+153,"
+€ 4.700,-
+",38.318 km,02/2011,57 kW,Hyundai,i20,2011,Blau,Kleinwagen,Super 95,no_data_about_accident,no_data
+154,"
+€ 4.750,-
+",74.000 km,06/2011,57 kW,Hyundai,i20,2011,Rot,Limousine,Super 95,no_data_about_accident,no_data
+155,"
+€ 4.850,-
+",96.109 km,11/2011,57 kW,Hyundai,i20,2011,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+156,"
+€ 4.890,-
+",63.000 km,03/2011,57 kW,Hyundai,i20,2011,Blau,Kleinwagen,Super 95,,no_data
+157,"
+€ 4.900,-
+",94.000 km,04/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Super 95 / Super Plus 98,no_data_about_accident,"
+1.248 cm³
+"
+158,"
+€ 4.950,-
+",92.000 km,08/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+159,"
+€ 4.950,-
+",62.886 km,02/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+160,"
+€ 4.950,-
+",62.886 km,02/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+161,"
+€ 4.980,-
+",98.552 km,02/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+162,"
+€ 4.985,-
+",146.342 km,02/2011,57 kW,Hyundai,i20,2011,Silber,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+163,"
+€ 4.990,-
+",146.000 km,09/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+164,"
+€ 4.990,-
+",66.574 km,02/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Benzin,,no_data
+165,"
+€ 4.990,-
+",65.800 km,01/2011,57 kW,Hyundai,i20,2011,Silber,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+166,"
+€ 4.990,-
+",80.000 km,04/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+167,"
+€ 4.990,-
+",60.000 km,10/2011,57 kW,Hyundai,i20,2011,Rot,Limousine,Super 95,,no_data
+168,"
+€ 4.990,-
+",53.000 km,09/2011,57 kW,Hyundai,i20,2011,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+169,"
+€ 4.999,-
+",94.800 km,02/2011,57 kW,Hyundai,i20,2011,Grün,Kleinwagen,Normal/Benzin E10 91 / Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+170,"
+€ 5.100,-
+",67.500 km,10/2011,57 kW,Hyundai,i20,2011,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+171,"
+€ 5.400,-
+",30.060 km,12/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+172,"
+€ 5.400,-
+",70.180 km,11/2011,57 kW,Hyundai,i20,2011,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+173,"
+€ 5.490,-
+",76.999 km,03/2011,57 kW,Hyundai,i20,2011,Grau,Kleinwagen,Benzin,,no_data
+174,"
+€ 5.499,-
+",51.830 km,12/2011,57 kW,Hyundai,i20,2011,Rot,Limousine,Benzin,,no_data
+175,"
+€ 5.500,-
+",55.352 km,05/2011,57 kW,Hyundai,i20,2011,Silber,Benzin,,,no_data
+176,"
+€ 5.800,-
+",35.000 km,09/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+177,"
+€ 6.280,-
+",73.856 km,01/2011,74 kW,Hyundai,i20,2011,Grün,Limousine,Benzin,,"
+1.396 cm³
+"
+178,"
+€ 4.499,-
+",63.163 km,03/2012,57 kW,Hyundai,i20,2012,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+179,"
+€ 2.800,-
+",79.250 km,06/2012,57 kW,Hyundai,i20,2012,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+180,"
+€ 2.900,-
+",119.309 km,03/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+181,"
+€ 3.200,-
+",110.000 km,03/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+182,"
+€ 3.200,-
+",110.000 km,02/2012,57 kW,Hyundai,i20,2012,Schwarz,Sonstige,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+183,"
+€ 3.350,-
+",139.080 km,10/2012,63 kW,Hyundai,i20,2012,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+184,"
+€ 3.350,-
+",146.670 km,08/2012,63 kW,Hyundai,i20,2012,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+185,"
+€ 3.500,-
+",149.000 km,03/2012,57 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+186,"
+€ 3.500,-
+",103.000 km,05/2012,57 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+187,"
+€ 3.599,-
+",146.500 km,02/2012,57 kW,Hyundai,i20,2012,Gold,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+188,"
+€ 3.790,-
+",142.563 km,07/2012,63 kW,Hyundai,i20,2012,Schwarz,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+189,"
+€ 3.799,-
+",120.222 km,08/2012,57 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+190,"
+€ 3.900,-
+",85.000 km,03/2012,63 kW,Hyundai,i20,2012,Blau,Kleinwagen,Benzin,no_data_about_accident,"
+Front
+"
+191,"
+€ 3.949,-
+",157.043 km,03/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,no_data_about_accident,no_data
+192,"
+€ 3.950,-
+",72.000 km,06/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+193,"
+€ 3.990,-
+",89.000 km,05/2012,63 kW,Hyundai,i20,2012,Weiß,Kleinwagen,Benzin,,no_data
+194,"
+€ 3.990,-
+",88.000 km,04/2012,57 kW,Hyundai,i20,2012,Rot,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+195,"
+€ 3.999,-
+",110.000 km,03/2012,57 kW,Hyundai,i20,2012,Grau,Kleinwagen,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+196,"
+€ 4.000,-
+",104.964 km,02/2012,57 kW,Hyundai,i20,2012,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+197,"
+€ 4.100,-
+",114.300 km,08/2012,63 kW,Hyundai,i20,2012,Grau,Limousine,Super 95 / Super Plus 98 / Super Plus E10 98 / Super E10 95,"
+05/2020
+","
+1.248 cm³
+"
+198,"
+€ 4.190,-
+",120.000 km,09/2012,63 kW,Hyundai,i20,2012,Grau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+199,"
+€ 4.200,-
+",79.392 km,09/2012,63 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+200,"
+€ 4.200,-
+",104.964 km,02/2012,57 kW,Hyundai,i20,2012,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+201,"
+€ 4.300,-
+",147.000 km,04/2012,57 kW,Hyundai,i20,2012,Schwarz,Limousine,Super 95,,no_data
+202,"
+€ 4.390,-
+",70.000 km,06/2012,57 kW,Hyundai,i20,2012,Silber,Limousine,Benzin,,no_data
+203,"
+€ 4.390,-
+",87.255 km,06/2012,57 kW,Hyundai,i20,2012,Rot,Limousine,Benzin,no_data_about_accident,no_data
+204,"
+€ 4.490,-
+",88.998 km,02/2012,57 kW,Hyundai,i20,2012,Blau,Limousine,Super 95,no_data_about_accident,no_data
+205,"
+€ 4.500,-
+",74.599 km,01/2012,57 kW,Hyundai,i20,2012,Schwarz,Kleinwagen,Super 95,,no_data
+206,"
+€ 4.600,-
+",112.000 km,09/2012,63 kW,Hyundai,i20,2012,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+207,"
+€ 4.655,-
+",86.521 km,03/2012,57 kW,Hyundai,i20,2012,Rot,Limousine,Super 95,"
+12 Monate
+","
+1.248 cm³
+"
+208,"
+€ 4.700,-
+",112.400 km,12/2012,63 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+209,"
+€ 4.799,-
+",74.000 km,04/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+210,"
+€ 4.890,-
+",40.650 km,06/2012,57 kW,Hyundai,i20,2012,Rot,Limousine,Super 95 / Super E10 95,"
+12 Monate
+","
+1.248 cm³
+"
+211,"
+€ 4.950,-
+",101.722 km,06/2012,57 kW,Hyundai,i20,2012,Rot,Limousine,Benzin,,no_data
+212,,64.200 km,07/2012,57 kW,Hyundai,i20,2012,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+213,"
+€ 4.990,-
+",138.000 km,06/2012,- kW,Hyundai,i20,2012,Kleinwagen,Schaltgetriebe,,,no_data
+214,"
+€ 4.990,-
+",49.792 km,03/2012,57 kW,Hyundai,i20,2012,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+215,"
+€ 4.990,-
+",110.169 km,06/2012,57 kW,Hyundai,i20,2012,Weiß,Kleinwagen,Super 95,,no_data
+216,"
+€ 4.990,-
+",88.254 km,12/2012,63 kW,Hyundai,i20,2012,Blau,Limousine,Super 95,no_data_about_accident,no_data
+217,"
+€ 4.999,-
+",85.000 km,04/2012,57 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,no_data_about_accident,no_data
+218,"
+€ 5.200,-
+",55.000 km,10/2012,63 kW,Hyundai,i20,2012,Silber,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+219,"
+€ 5.200,-
+",113.000 km,08/2012,63 kW,Hyundai,i20,2012,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+220,"
+€ 5.299,-
+",67.105 km,09/2012,63 kW,Hyundai,i20,2012,Silber,Limousine,Super 95,no_data_about_accident,no_data
+221,"
+€ 5.300,-
+",99.760 km,12/2012,63 kW,Hyundai,i20,2012,Schwarz,Kleinwagen,Benzin,,no_data
+222,"
+€ 5.300,-
+",100.000 km,12/2012,63 kW,Hyundai,i20,2012,Kleinwagen,Schaltgetriebe,,,no_data
+223,"
+€ 5.390,-
+",36.872 km,11/2012,63 kW,Hyundai,i20,2012,Blau,Limousine,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+224,"
+€ 5.400,-
+",63.823 km,02/2012,57 kW,Hyundai,i20,2012,Grün,Limousine,Benzin,no_data_about_accident,no_data
+225,"
+€ 5.440,-
+",80.500 km,06/2012,63 kW,Hyundai,i20,2012,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+226,"
+€ 5.499,-
+",62.000 km,08/2012,63 kW,Hyundai,i20,2012,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+227,"
+€ 5.500,-
+",69.300 km,09/2012,63 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,"
+07/2020
+","
+1.248 cm³
+"
+228,"
+€ 5.500,-
+",85.000 km,09/2012,63 kW,Hyundai,i20,2012,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+229,"
+€ 5.690,-
+",49.500 km,08/2012,63 kW,Hyundai,i20,2012,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+230,"
+€ 5.700,-
+",59.802 km,07/2012,63 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+231,"
+€ 5.800,-
+",59.800 km,11/2012,63 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+232,"
+€ 5.890,-
+",32.200 km,08/2012,63 kW,Hyundai,i20,2012,Grau,Kleinwagen,Benzin,,no_data
+233,"
+€ 5.899,-
+",49.000 km,12/2012,63 kW,Hyundai,i20,2012,Rot,Kleinwagen,Super 95,,no_data
+234,"
+€ 5.900,-
+",59.137 km,03/2012,57 kW,Hyundai,i20,2012,Grau,Limousine,Normal/Benzin 91 / Super 95 / Super Plus 98,no_data_about_accident,"
+1.248 cm³
+"
+235,"
+€ 5.950,-
+",59.793 km,08/2012,63 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+236,"
+€ 5.980,-
+",70.325 km,02/2012,57 kW,Hyundai,i20,2012,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+237,"
+€ 5.985,-
+",80.150 km,12/2012,63 kW,Hyundai,i20,2012,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+238,"
+€ 5.989,-
+",117.207 km,05/2012,63 kW,Hyundai,i20,2012,Grau,Kleinwagen,Benzin,no_data_about_accident,no_data
+239,"
+€ 5.990,-
+",82.500 km,03/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,no_data_about_accident,no_data
+240,"
+€ 6.450,-
+",65.812 km,09/2012,63 kW,Hyundai,i20,2012,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+241,"
+€ 6.500,-
+",44.800 km,03/2012,57 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+242,"
+€ 6.920,-
+",90.190 km,08/2012,63 kW,Hyundai,i20,2012,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+243,"
+€ 6.990,-
+",38.000 km,11/2012,63 kW,Hyundai,i20,2012,Weiß,Kleinwagen,Benzin,,no_data
+244,"
+€ 7.700,-
+",35.000 km,11/2012,85 kW,Hyundai,i20,2012,Schwarz,Kleinwagen,Diesel (Rußpartikelfilter),,no_data
+245,"
+€ 7.900,-
+",59.613 km,07/2012,57 kW,Hyundai,i20,2012,Rot,Kleinwagen,Super 95,,no_data
+246,"
+€ 5.590,-
+",68.390 km,09/2013,63 kW,Hyundai,i20,2013,Silber,Kleinwagen,Benzin,,no_data
+247,"
+€ 2.900,-
+",76.830 km,06/2013,55 kW,Hyundai,i20,2013,Rot,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.120 cm³
+"
+248,"
+€ 3.900,-
+",88.000 km,03/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+249,"
+€ 4.100,-
+",193.000 km,04/2013,55 kW,Hyundai,i20,2013,Rot,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+250,"
+€ 4.300,-
+",154.000 km,09/2013,63 kW,Hyundai,i20,2013,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+251,"
+€ 4.400,-
+",125.000 km,07/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,,no_data
+252,"
+€ 4.400,-
+",91.000 km,12/2013,63 kW,Hyundai,i20,2013,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+253,"
+€ 4.480,-
+",112.600 km,02/2013,63 kW,Hyundai,i20,2013,Bronze,Limousine,Super 95,,"
+1.248 cm³
+"
+254,"
+€ 4.490,-
+",72.000 km,08/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,,"
+Front
+"
+255,"
+€ 4.499,-
+",100.700 km,12/2013,63 kW,Hyundai,i20,2013,Schwarz,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+256,"
+€ 4.500,-
+",110.556 km,06/2013,63 kW,Hyundai,i20,2013,Rot,Kleinwagen,Benzin,no_data_about_accident,"
+4
+"
+257,"
+€ 4.500,-
+",115.024 km,06/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+258,"
+€ 4.555,-
+",61.670 km,08/2013,63 kW,Hyundai,i20,2013,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+259,"
+€ 4.790,-
+",103.920 km,07/2013,63 kW,Hyundai,i20,2013,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+260,"
+€ 4.800,-
+",110.000 km,09/2013,63 kW,Hyundai,i20,2013,Silber,Limousine,Normal/Benzin E10 91 / Super 95,"
+12 Monate
+","
+1.248 cm³
+"
+261,"
+€ 4.820,-
+",66.200 km,09/2013,63 kW,Hyundai,i20,2013,Rot,Limousine,Benzin,,"
+1.248 cm³
+"
+262,"
+€ 4.850,-
+",78.241 km,11/2013,57 kW,Hyundai,i20,2013,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+263,,90.884 km,01/2013,63 kW,Hyundai,i20,2013,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+264,"
+€ 4.950,-
+",102.000 km,03/2013,63 kW,Hyundai,i20,2013,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+265,"
+€ 4.990,-
+",45.609 km,12/2013,63 kW,Hyundai,i20,2013,Grau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+266,"
+€ 4.990,-
+",116.000 km,12/2013,63 kW,Hyundai,i20,2013,Beige,Limousine,Super 95,,no_data
+267,"
+€ 4.999,-
+",67.000 km,07/2013,63 kW,Hyundai,i20,2013,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+268,"
+€ 4.999,-
+",100.000 km,04/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,,no_data
+269,"
+€ 4.999,-
+",108.965 km,06/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Normal/Benzin 91 / Super 95 / Super Plus 98,no_data_about_accident,"
+1.248 cm³
+"
+270,"
+€ 4.999,-
+",95.000 km,12/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+271,"
+€ 4.999,-
+",98.466 km,01/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+272,"
+€ 5.000,-
+",85.000 km,09/2013,63 kW,Hyundai,i20,2013,Rot,Limousine,Benzin,no_data_about_accident,no_data
+273,"
+€ 5.200,-
+",90.700 km,08/2013,55 kW,Hyundai,i20,2013,Rot,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+274,"
+€ 5.350,-
+",127.714 km,09/2013,55 kW,Hyundai,i20,2013,Rot,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+275,,71.600 km,03/2013,63 kW,Hyundai,i20,2013,Weiß,Kleinwagen,Super 95,,no_data
+276,"
+€ 5.490,-
+",97.620 km,01/2013,63 kW,Hyundai,i20,2013,Braun,Kleinwagen,Benzin,,no_data
+277,"
+€ 5.500,-
+",90.000 km,04/2013,63 kW,Hyundai,i20,2013,Weiß,Kleinwagen,Normal/Benzin 91 / Super 95 / Super Plus 98 / Normal/Benzin E10 91 / Super E10 95 / Super Plus E10 98,,"
+1.248 cm³
+"
+278,"
+€ 5.590,-
+",79.000 km,06/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Benzin,,no_data
+279,"
+€ 5.600,-
+",99.000 km,05/2013,63 kW,Hyundai,i20,2013,Weiß,Kleinwagen,Benzin,,no_data
+280,"
+€ 5.650,-
+",41.553 km,07/2013,63 kW,Hyundai,i20,2013,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+281,"
+€ 5.680,-
+",97.926 km,09/2013,63 kW,Hyundai,i20,2013,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+282,"
+€ 5.690,-
+",90.500 km,08/2013,63 kW,Hyundai,i20,2013,Schwarz,Kleinwagen,Benzin,,no_data
+283,"
+€ 5.750,-
+",47.477 km,03/2013,57 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+284,"
+€ 5.750,-
+",102.890 km,11/2013,55 kW,Hyundai,i20,2013,Rot,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+285,"
+€ 5.770,-
+",41.044 km,01/2013,63 kW,Hyundai,i20,2013,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+286,"
+€ 5.790,-
+",56.090 km,04/2013,63 kW,Hyundai,i20,2013,Silber,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+Front
+"
+287,"
+€ 5.790,-
+",88.840 km,03/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+288,"
+€ 5.800,-
+",108.000 km,07/2013,64 kW,Hyundai,i20,2013,Rot,Kleinwagen,Super 95,,no_data
+289,"
+€ 5.800,-
+",44.000 km,12/2013,63 kW,Hyundai,i20,2013,Grau,Kleinwagen,Benzin,,no_data
+290,"
+€ 5.800,-
+",100.000 km,12/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+291,"
+€ 5.800,-
+",81.000 km,08/2013,63 kW,Hyundai,i20,2013,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+292,"
+€ 5.899,-
+",48.000 km,06/2013,63 kW,Hyundai,i20,2013,Silber,Limousine,Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,,"
+1.248 cm³
+"
+293,"
+€ 5.900,-
+",54.000 km,10/2013,63 kW,Hyundai,i20,2013,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+294,"
+€ 5.900,-
+",66.000 km,01/2013,63 kW,Hyundai,i20,2013,Schwarz,Limousine,Super 95,,no_data
+295,"
+€ 5.950,-
+",40.000 km,03/2013,63 kW,Hyundai,i20,2013,Schwarz,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+296,"
+€ 5.950,-
+",89.900 km,01/2013,57 kW,Hyundai,i20,2013,Blau,Limousine,Benzin,,no_data
+297,"
+€ 5.990,-
+",70.000 km,02/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,,no_data
+298,"
+€ 5.990,-
+",137.000 km,03/2013,63 kW,Hyundai,i20,2013,Weiß,Kleinwagen,Super 95,,no_data
+299,"
+€ 5.990,-
+",100.000 km,09/2013,63 kW,Hyundai,i20,2013,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+300,"
+€ 5.999,-
+",58.900 km,05/2013,63 kW,Hyundai,i20,2013,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+301,"
+€ 5.999,-
+",47.000 km,07/2013,63 kW,Hyundai,i20,2013,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+302,"
+€ 5.999,-
+",79.500 km,04/2013,63 kW,Hyundai,i20,2013,Grau,Kombi,,no_data_about_accident,no_data
+303,"
+€ 5.999,-
+",29.917 km,12/2013,63 kW,Hyundai,i20,2013,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+304,"
+€ 6.000,-
+",89.000 km,03/2013,63 kW,Hyundai,i20,2013,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+305,"
+€ 6.350,-
+",53.750 km,07/2013,63 kW,Hyundai,i20,2013,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+306,"
+€ 6.444,-
+",85.000 km,10/2013,63 kW,Hyundai,i20,2013,Schwarz,Limousine,Super 95,"
+12 Monate
+","
+1.248 cm³
+"
+307,"
+€ 6.760,-
+",138.457 km,06/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Autogas (LPG),no_data_about_accident,"
+1.248 cm³
+"
+308,"
+€ 6.800,-
+",74.900 km,09/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,,no_data
+309,"
+€ 6.950,-
+",111.728 km,03/2013,74 kW,Hyundai,i20,2013,Bronze,Limousine,Super E10 95,no_data_about_accident,"
+4
+"
+310,"
+€ 6.970,-
+",32.650 km,08/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Benzin,,no_data
+311,"
+€ 6.985,-
+",56.876 km,01/2013,63 kW,Hyundai,i20,2013,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+312,"
+€ 6.990,-
+",55.164 km,09/2013,63 kW,Hyundai,i20,2013,Rot,Kleinwagen,Benzin,no_data_about_accident,no_data
+313,"
+€ 6.990,-
+",46.000 km,03/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+314,"
+€ 7.000,-
+",89.000 km,05/2013,66 kW,Hyundai,i20,2013,Schwarz,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+315,"
+€ 7.120,-
+",128.000 km,02/2013,55 kW,Hyundai,i20,2013,Weiß,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+316,"
+€ 7.150,-
+",43.000 km,12/2013,63 kW,Hyundai,i20,2013,Blau,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+317,"
+€ 7.450,-
+",43.900 km,04/2013,57 kW,Hyundai,i20,2013,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+318,"
+€ 7.843,-
+",74.218 km,04/2013,74 kW,Hyundai,i20,2013,Kleinwagen,Automatik,,no_data_about_accident,"
+4
+"
+319,"
+€ 8.950,-
+",82.890 km,11/2013,55 kW,Hyundai,i20,2013,Schwarz,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+320,"
+€ 9.200,-
+",24.500 km,09/2013,74 kW,Hyundai,i20,2013,Rot,Limousine,Benzin,,"
+1.396 cm³
+"
+321,"
+€ 6.490,-
+",81.200 km,02/2014,63 kW,Hyundai,i20,2014,Orange,Limousine,Super 95,no_data_about_accident,no_data
+322,"
+€ 6.795,-
+",26.400 km,06/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Normal/Benzin E10 91,,no_data
+323,"
+€ 4.499,-
+",158.000 km,03/2014,63 kW,Hyundai,i20,2014,Blau,Kleinwagen,Super 95,no_data_about_accident,no_data
+324,"
+€ 5.685,-
+",79.800 km,05/2014,55 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,"
+Front
+"
+325,"
+€ 7.470,-
+",26.517 km,08/2014,63 kW,Hyundai,i20,2014,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+326,"
+€ 6.590,-
+",60.485 km,09/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Super 95,,no_data
+327,"
+€ 7.990,-
+",34.970 km,06/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Super 95,,no_data
+328,"
+€ 9.590,-
+",59.580 km,02/2014,74 kW,Hyundai,i20,2014,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+329,"
+€ 3.990,-
+",101.800 km,06/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+330,"
+€ 3.990,-
+",108.000 km,06/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,"
+12 Monate
+","
+1.248 cm³
+"
+331,"
+€ 3.991,-
+",140.000 km,09/2014,63 kW,Hyundai,i20,2014,Kleinwagen,Schaltgetriebe,,,no_data
+332,"
+€ 4.255,-
+",100.788 km,12/2014,62 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+333,"
+€ 4.490,-
+",141.900 km,05/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+334,"
+€ 4.600,-
+",114.501 km,09/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,,no_data
+335,"
+€ 4.600,-
+",113.000 km,09/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+336,"
+€ 4.650,-
+",85.657 km,07/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+337,"
+€ 4.690,-
+",111.000 km,01/2014,55 kW,Hyundai,i20,2014,Orange,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+338,"
+€ 4.700,-
+",93.800 km,04/2014,74 kW,Hyundai,i20,2014,Orange,Limousine,Benzin,no_data_about_accident,"
+Front
+"
+339,"
+€ 4.790,-
+",158.000 km,04/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+340,"
+€ 4.800,-
+",71.000 km,06/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+341,"
+€ 4.900,-
+",70.350 km,10/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+342,"
+€ 4.900,-
+",86.870 km,06/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Super 95,,no_data
+343,"
+€ 4.900,-
+",134.000 km,10/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Benzin,,no_data
+344,"
+€ 4.950,-
+",48.500 km,02/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Benzin,no_data_about_accident,no_data
+345,"
+€ 4.950,-
+",74.000 km,03/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+346,"
+€ 4.990,-
+",66.900 km,12/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+347,"
+€ 5.000,-
+",112.000 km,06/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Super 95 (Rußpartikelfilter),no_data_about_accident,no_data
+348,"
+€ 5.200,-
+",70.192 km,04/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+349,"
+€ 5.299,-
+",114.000 km,03/2014,55 kW,Hyundai,i20,2014,Schwarz,Limousine,Diesel,,"
+1.120 cm³
+"
+350,"
+€ 5.365,-
+",107.000 km,07/2014,55 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,"
+Front
+"
+351,"
+€ 5.400,-
+",115.000 km,05/2014,63 kW,Hyundai,i20,2014,Weiß,Benzin,,no_data_about_accident,no_data
+352,"
+€ 5.475,-
+",98.000 km,04/2014,55 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,"
+Front
+"
+353,"
+€ 5.490,-
+",141.337 km,02/2014,55 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),,no_data
+354,"
+€ 5.490,-
+",63.464 km,02/2014,63 kW,Hyundai,i20,2014,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+355,"
+€ 5.490,-
+",100.000 km,08/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Benzin,,no_data
+356,"
+€ 5.499,-
+",86.000 km,12/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+357,"
+€ 5.500,-
+",96.390 km,09/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,no_data
+358,"
+€ 5.500,-
+",101.850 km,11/2014,55 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+359,"
+€ 5.750,-
+",75.000 km,04/2014,55 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Diesel (Rußpartikelfilter),,no_data
+360,"
+€ 5.760,-
+",106.000 km,03/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+361,"
+€ 5.760,-
+",61.887 km,03/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,no_data_about_accident,no_data
+362,"
+€ 5.790,-
+",107.740 km,03/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+363,"
+€ 5.799,-
+",107.000 km,12/2014,62 kW,Hyundai,i20,2014,Grau,Kleinwagen,Super 95,,no_data
+364,"
+€ 5.890,-
+",57.800 km,01/2014,63 kW,Hyundai,i20,2014,Bronze,Limousine,Benzin,,"
+1.248 cm³
+"
+365,"
+€ 5.899,-
+",96.000 km,09/2014,63 kW,Hyundai,i20,2014,Grau,Kleinwagen,Super 95,,no_data
+366,"
+€ 5.900,-
+",96.000 km,08/2014,63 kW,Hyundai,i20,2014,Blau,Kleinwagen,Super 95,,no_data
+367,"
+€ 5.900,-
+",57.200 km,05/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+368,"
+€ 5.985,-
+",83.098 km,06/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+369,"
+€ 5.990,-
+",77.000 km,08/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+370,"
+€ 5.990,-
+",97.000 km,05/2014,63 kW,Hyundai,i20,2014,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+371,"
+€ 5.990,-
+",78.230 km,06/2014,63 kW,Hyundai,i20,2014,Weiß,Sonstige,Super 95,no_data_about_accident,no_data
+372,"
+€ 5.990,-
+",124.756 km,07/2014,63 kW,Hyundai,i20,2014,Grau,Kleinwagen,Benzin,no_data_about_accident,no_data
+373,"
+€ 5.990,-
+",51.499 km,02/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,no_data
+374,"
+€ 5.999,-
+",69.000 km,12/2014,62 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+375,"
+€ 5.999,-
+",81.387 km,09/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,"
+Front
+"
+376,,70.000 km,04/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Normal/Benzin E10 91,,"
+1.248 cm³
+"
+377,"
+€ 6.100,-
+",47.000 km,09/2014,63 kW,Hyundai,i20,2014,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+378,"
+€ 6.100,-
+",98.000 km,04/2014,55 kW,Hyundai,i20,2014,Weiß,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.120 cm³
+"
+379,"
+€ 6.150,-
+",87.022 km,09/2014,63 kW,Hyundai,i20,2014,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+380,"
+€ 6.150,-
+",87.022 km,09/2014,63 kW,Hyundai,i20,2014,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+381,"
+€ 6.185,-
+",76.290 km,12/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+382,"
+€ 6.200,-
+",84.500 km,01/2014,63 kW,Hyundai,i20,2014,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+383,"
+€ 6.200,-
+",119.000 km,03/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+384,"
+€ 6.250,-
+",60.000 km,03/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+385,"
+€ 6.250,-
+",87.200 km,06/2014,63 kW,Hyundai,i20,2014,Rot,Limousine,Super E10 95 / Super 95 / Super Plus 98 / Super Plus E10 98,,"
+1.248 cm³
+"
+386,"
+€ 6.350,-
+",46.000 km,11/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+387,"
+€ 6.390,-
+",132.000 km,12/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Benzin,no_data_about_accident,no_data
+388,"
+€ 6.450,-
+",135.000 km,05/2014,66 kW,Hyundai,i20,2014,Grau,Kleinwagen,Diesel (Rußpartikelfilter),,no_data
+389,"
+€ 6.480,-
+",70.100 km,11/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+390,"
+€ 6.480,-
+",59.293 km,07/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+391,"
+€ 6.488,-
+",80.062 km,05/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super E10 95 / Super 95 / Super Plus 98 / Super Plus E10 98,,"
+1.248 cm³
+"
+392,"
+€ 6.490,-
+",47.000 km,03/2014,63 kW,Hyundai,i20,2014,Limousine,Schaltgetriebe,,,"
+1.248 cm³
+"
+393,"
+€ 6.500,-
+",65.600 km,06/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Benzin,,no_data
+394,"
+€ 6.500,-
+",104.350 km,12/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Super 95 (Rußpartikelfilter),,no_data
+395,"
+€ 6.500,-
+",34.552 km,07/2014,63 kW,Hyundai,i20,2014,Rot,Kleinwagen,Benzin,,no_data
+396,"
+€ 6.500,-
+",63.777 km,06/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+397,"
+€ 6.590,-
+",67.500 km,06/2014,63 kW,Hyundai,i20,2014,Orange,Limousine,Normal/Benzin E10 91,,"
+1.248 cm³
+"
+398,"
+€ 6.610,-
+",62.665 km,05/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+399,"
+€ 6.690,-
+",36.740 km,04/2014,63 kW,Hyundai,i20,2014,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+400,"
+€ 6.790,-
+",81.670 km,11/2014,62 kW,Hyundai,i20,2014,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+401,"
+€ 6.850,-
+",42.000 km,06/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+402,"
+€ 6.890,-
+",44.490 km,09/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,no_data
+403,"
+€ 6.899,-
+",44.713 km,03/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+404,"
+€ 6.900,-
+",53.421 km,10/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,"
+12 Monate
+","
+1.248 cm³
+"
+405,"
+€ 6.900,-
+",82.100 km,10/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+406,"
+€ 6.950,-
+",70.630 km,12/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Benzin,,no_data
+407,"
+€ 6.990,-
+",40.000 km,11/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+408,"
+€ 6.990,-
+",38.908 km,12/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Benzin,,no_data
+409,"
+€ 6.990,-
+",80.236 km,10/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+410,"
+€ 6.999,-
+",50.000 km,10/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,no_data
+411,"
+€ 7.200,-
+",59.500 km,06/2014,55 kW,Hyundai,i20,2014,Grau,Limousine,Diesel,,"
+1.120 cm³
+"
+412,"
+€ 7.290,-
+",46.133 km,05/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Benzin,,no_data
+413,"
+€ 7.299,-
+",53.899 km,05/2014,63 kW,Hyundai,i20,2014,Grau,Kleinwagen,Super 95,,no_data
+414,"
+€ 7.390,-
+",50.400 km,05/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+415,"
+€ 7.450,-
+",81.733 km,11/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,no_data
+416,"
+€ 7.489,-
+",83.000 km,05/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,,"
+1.248 cm³
+"
+417,"
+€ 7.490,-
+",35.900 km,02/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super 95,,no_data
+418,"
+€ 7.490,-
+",76.900 km,06/2014,74 kW,Hyundai,i20,2014,Orange,Kleinwagen,Super 95,no_data_about_accident,no_data
+419,"
+€ 7.500,-
+",42.000 km,09/2014,74 kW,Hyundai,i20,2014,Rot,Limousine,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+420,"
+€ 7.790,-
+",38.538 km,07/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Super 95,"
+12 Monate
+","
+1.248 cm³
+"
+421,"
+€ 7.990,-
+",28.600 km,07/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Normal/Benzin 91,no_data_about_accident,"
+1.248 cm³
+"
+422,"
+€ 7.990,-
+",23.900 km,08/2014,63 kW,Hyundai,i20,2014,Silber,Kleinwagen,Benzin,,no_data
+423,"
+€ 7.990,-
+",27.500 km,04/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+424,"
+€ 8.000,-
+",70.000 km,11/2014,74 kW,Hyundai,i20,2014,Orange,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+425,"
+€ 8.280,-
+",34.800 km,11/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Super E10 95,,"
+1.248 cm³
+"
+426,"
+€ 8.290,-
+",30.300 km,04/2014,63 kW,Hyundai,i20,2014,Orange,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+427,"
+€ 8.499,-
+",63.000 km,10/2014,74 kW,Hyundai,i20,2014,Silber,Kleinwagen,Super 95,,no_data
+428,"
+€ 8.690,-
+",75.000 km,11/2014,74 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,"
+1.135 kg
+"
+429,"
+€ 8.690,-
+",61.000 km,09/2014,74 kW,Hyundai,i20,2014,Grau,Limousine,Super 95,no_data_about_accident,"
+1.396 cm³
+"
+430,"
+€ 8.890,-
+",75.000 km,12/2014,74 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,,"
+1.396 cm³
+"
+431,"
+€ 8.900,-
+",29.300 km,11/2014,74 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+432,"
+€ 8.950,-
+",56.997 km,02/2014,63 kW,Hyundai,i20,2014,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+433,"
+€ 8.990,-
+",37.995 km,08/2014,63 kW,Hyundai,i20,2014,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+434,"
+€ 9.190,-
+",29.401 km,11/2014,62 kW,Hyundai,i20,2014,Silber,Kleinwagen,Benzin,,no_data
+435,"
+€ 9.190,-
+",57.000 km,06/2014,74 kW,Hyundai,i20,2014,Grau,Limousine,Super E10 95 / Super 95,,"
+4
+"
+436,"
+€ 9.200,-
+",29.300 km,11/2014,74 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+437,"
+€ 9.350,-
+",37.000 km,05/2014,74 kW,Hyundai,i20,2014,Grau,Kleinwagen,Benzin,no_data_about_accident,"
+1.396 cm³
+"
+438,"
+€ 9.450,-
+",38.055 km,01/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,,no_data
+439,"
+€ 9.490,-
+",94.200 km,12/2014,66 kW,Hyundai,i20,2014,Grau,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+440,"
+€ 9.500,-
+",84.665 km,12/2014,74 kW,Hyundai,i20,2014,Orange,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+441,"
+€ 9.790,-
+",17.000 km,10/2014,74 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Benzin (Rußpartikelfilter),,"
+4
+"
+442,"
+€ 9.790,-
+",29.000 km,03/2014,74 kW,Hyundai,i20,2014,Silber,Limousine,Super 95,,no_data
+443,"
+€ 9.990,-
+",15.891 km,10/2014,74 kW,Hyundai,i20,2014,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.396 cm³
+"
+444,"
+€ 9.999,-
+",39.175 km,10/2014,74 kW,Hyundai,i20,2014,Grau,Kleinwagen,Benzin,,no_data
+445,"
+€ 7.980,-
+",34.433 km,12/2015,62 kW,Hyundai,i20,2015,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+446,"
+€ 8.880,-
+",20.178 km,03/2015,63 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+447,"
+€ 8.990,-
+",53.857 km,05/2015,62 kW,Hyundai,i20,2015,Weiß,Limousine,Super 95,,no_data
+448,"
+€ 9.950,-
+",59.650 km,10/2015,62 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+449,"
+€ 10.790,-
+",34.579 km,06/2015,74 kW,Hyundai,i20,2015,Grau,Kleinwagen,Benzin,,no_data
+450,"
+€ 6.900,-
+",121.800 km,10/2015,62 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+451,"
+€ 8.590,-
+",86.800 km,10/2015,74 kW,Hyundai,i20,2015,Schwarz,Coupé,Super 95,,no_data
+452,"
+€ 9.490,-
+",53.000 km,11/2015,62 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super 95,,no_data
+453,"
+€ 4.750,-
+",125.457 km,01/2015,63 kW,Hyundai,i20,2015,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+454,"
+€ 5.400,-
+",86.000 km,04/2015,63 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+455,"
+€ 5.650,-
+",125.457 km,01/2015,62 kW,Hyundai,i20,2015,Rot,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+456,"
+€ 6.350,-
+",64.984 km,01/2015,62 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+457,"
+€ 6.490,-
+",115.123 km,07/2015,55 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+458,"
+€ 6.790,-
+",42.500 km,08/2015,55 kW,Hyundai,i20,2015,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+459,"
+€ 6.790,-
+",148.849 km,03/2015,74 kW,Hyundai,i20,2015,Grau,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+460,"
+€ 6.880,-
+",74.500 km,05/2015,55 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+461,"
+€ 6.890,-
+",113.390 km,10/2015,55 kW,Hyundai,i20,2015,Weiß,Limousine,Diesel,"
+10/2019
+","
+1.120 cm³
+"
+462,"
+€ 6.890,-
+",107.000 km,05/2015,63 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Benzin,no_data_about_accident,no_data
+463,,79.524 km,08/2015,62 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Benzin,,"
+4
+"
+464,"
+€ 6.900,-
+",116.938 km,06/2015,55 kW,Hyundai,i20,2015,Weiß,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+465,"
+€ 6.900,-
+",116.938 km,06/2015,55 kW,Hyundai,i20,2015,Weiß,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+466,"
+€ 6.980,-
+",77.527 km,09/2015,55 kW,Hyundai,i20,2015,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+467,"
+€ 6.990,-
+",48.051 km,10/2015,62 kW,Hyundai,i20,2015,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+468,"
+€ 6.990,-
+",106.650 km,12/2015,55 kW,Hyundai,i20,2015,Rot,Kleinwagen,Super 95,,no_data
+469,"
+€ 6.999,-
+",99.000 km,02/2015,62 kW,Hyundai,i20,2015,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+470,"
+€ 6.999,-
+",117.000 km,08/2015,62 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+471,"
+€ 7.200,-
+",73.771 km,03/2015,62 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+472,"
+€ 7.210,-
+",56.500 km,08/2015,62 kW,Hyundai,i20,2015,Blau,Kleinwagen,Benzin,no_data_about_accident,no_data
+473,"
+€ 7.250,-
+",56.000 km,11/2015,74 kW,Hyundai,i20,2015,Braun,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+474,"
+€ 7.400,-
+",39.600 km,11/2015,62 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+475,"
+€ 7.500,-
+",28.620 km,09/2015,62 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+476,"
+€ 7.550,-
+",78.891 km,05/2015,74 kW,Hyundai,i20,2015,Rot,Kleinwagen,Benzin,,no_data
+477,"
+€ 7.590,-
+",33.500 km,10/2015,55 kW,Hyundai,i20,2015,Weiß,Limousine,Super 95,,no_data
+478,"
+€ 7.590,-
+",47.022 km,03/2015,55 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+479,"
+€ 7.600,-
+",54.304 km,08/2015,62 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+480,"
+€ 7.680,-
+",66.499 km,09/2015,74 kW,Hyundai,i20,2015,Grau,Coupé,Benzin,,"
+1.368 cm³
+"
+481,"
+€ 7.690,-
+",82.000 km,06/2015,62 kW,Hyundai,i20,2015,Silber,Kleinwagen,Benzin,no_data_about_accident,no_data
+482,"
+€ 7.699,-
+",47.800 km,02/2015,62 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,,no_data
+483,"
+€ 7.777,-
+",52.198 km,01/2015,66 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),,no_data
+484,"
+€ 7.790,-
+",106.000 km,03/2015,55 kW,Hyundai,i20,2015,Orange,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+485,"
+€ 7.800,-
+",99.870 km,07/2015,74 kW,Hyundai,i20,2015,Blau,Limousine,Super 95,,no_data
+486,"
+€ 7.900,-
+",20.703 km,11/2015,55 kW,Hyundai,i20,2015,Limousine,Schaltgetriebe,,,no_data
+487,"
+€ 7.950,-
+",110.000 km,01/2015,62 kW,Hyundai,i20,2015,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+488,"
+€ 7.950,-
+",87.000 km,08/2015,62 kW,Hyundai,i20,2015,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+489,"
+€ 7.950,-
+",81.100 km,03/2015,74 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,,"
+1.368 cm³
+"
+490,"
+€ 7.950,-
+",43.020 km,06/2015,55 kW,Hyundai,i20,2015,Weiß,Limousine,Super 95 / Super Plus 98,"
+12 Monate
+","
+1.248 cm³
+"
+491,"
+€ 7.970,-
+",47.000 km,06/2015,62 kW,Hyundai,i20,2015,Schwarz,Limousine,Super 95,,no_data
+492,"
+€ 7.980,-
+",71.538 km,05/2015,74 kW,Hyundai,i20,2015,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+493,"
+€ 7.990,-
+",85.050 km,08/2015,66 kW,Hyundai,i20,2015,Grau,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+494,"
+€ 7.990,-
+",69.000 km,03/2015,62 kW,Hyundai,i20,2015,Orange,Limousine,Super 95,,"
+1.248 cm³
+"
+495,"
+€ 7.990,-
+",34.589 km,11/2015,62 kW,Hyundai,i20,2015,Braun,Limousine,Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,"
+03/2020
+","
+1.248 cm³
+"
+496,"
+€ 7.990,-
+",49.300 km,04/2015,62 kW,Hyundai,i20,2015,Limousine,Schaltgetriebe,,no_data_about_accident,no_data
+497,"
+€ 7.990,-
+",68.000 km,10/2015,55 kW,Hyundai,i20,2015,Silber,Limousine,Super 95,,no_data
+498,"
+€ 7.999,-
+",14.000 km,05/2015,55 kW,Hyundai,i20,2015,Silber,Kleinwagen,Super 95,no_data_about_accident,no_data
+499,"
+€ 7.999,-
+",33.500 km,12/2015,55 kW,Hyundai,i20,2015,Kleinwagen,Schaltgetriebe,,,no_data
+500,"
+€ 8.000,-
+",88.000 km,10/2015,74 kW,Hyundai,i20,2015,Gold,Schaltgetriebe,,,"
+1.368 cm³
+"
+501,"
+€ 8.190,-
+",51.500 km,08/2015,62 kW,Hyundai,i20,2015,Braun,Limousine,Super E10 95,,"
+1.248 cm³
+"
+502,"
+€ 8.200,-
+",75.130 km,09/2015,74 kW,Hyundai,i20,2015,Grau,Kleinwagen,Benzin,no_data_about_accident,no_data
+503,"
+€ 8.300,-
+",93.100 km,09/2015,62 kW,Hyundai,i20,2015,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+504,"
+€ 8.480,-
+",66.652 km,08/2015,62 kW,Hyundai,i20,2015,Rot,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+505,"
+€ 8.490,-
+",61.229 km,12/2015,62 kW,Hyundai,i20,2015,Blau,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,no_data
+506,"
+€ 8.490,-
+",45.200 km,11/2015,55 kW,Hyundai,i20,2015,Rot,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.120 cm³
+"
+507,"
+€ 8.490,-
+",52.356 km,11/2015,55 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+508,"
+€ 8.499,-
+",71.500 km,08/2015,74 kW,Hyundai,i20,2015,Weiß,Coupé,Benzin,,"
+1.368 cm³
+"
+509,"
+€ 8.500,-
+",11.441 km,11/2015,55 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+510,"
+€ 8.500,-
+",59.000 km,03/2015,74 kW,Hyundai,i20,2015,Silber,Limousine,Benzin,,"
+1.368 cm³
+"
+511,,61.000 km,04/2015,74 kW,Hyundai,i20,2015,Orange,Limousine,Super 95,no_data_about_accident,no_data
+512,"
+€ 8.600,-
+",65.851 km,04/2015,74 kW,Hyundai,i20,2015,Schwarz,Coupé,Benzin,,"
+1.368 cm³
+"
+513,"
+€ 8.690,-
+",19.400 km,06/2015,62 kW,Hyundai,i20,2015,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+514,"
+€ 8.780,-
+",100.952 km,11/2015,74 kW,Hyundai,i20,2015,Orange,Limousine,Super 95,,"
+1.368 cm³
+"
+515,"
+€ 8.880,-
+",57.578 km,10/2015,74 kW,Hyundai,i20,2015,Grau,Limousine,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+516,"
+€ 8.900,-
+",101.010 km,11/2015,66 kW,Hyundai,i20,2015,Braun,Limousine,Diesel,,"
+1.396 cm³
+"
+517,"
+€ 8.900,-
+",79.807 km,12/2015,74 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,,"
+1.368 cm³
+"
+518,"
+€ 8.900,-
+",75.200 km,05/2015,62 kW,Hyundai,i20,2015,Orange,Limousine,Super 95,,no_data
+519,"
+€ 8.950,-
+",46.000 km,06/2015,74 kW,Hyundai,i20,2015,Braun,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+520,"
+€ 8.950,-
+",39.000 km,10/2015,55 kW,Hyundai,i20,2015,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+521,"
+€ 8.980,-
+",80.200 km,10/2015,74 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,no_data_about_accident,no_data
+522,"
+€ 8.990,-
+",62.000 km,11/2015,74 kW,Hyundai,i20,2015,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+523,"
+€ 8.990,-
+",106.119 km,05/2015,74 kW,Hyundai,i20,2015,Grau,Kleinwagen,Super 95,,"
+1.368 cm³
+"
+524,"
+€ 8.990,-
+",61.000 km,07/2015,62 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+525,"
+€ 8.990,-
+",61.000 km,07/2015,62 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+526,,41.600 km,11/2015,74 kW,Hyundai,i20,2015,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+527,,54.100 km,05/2015,74 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,,"
+1.368 cm³
+"
+528,"
+€ 8.999,-
+",73.500 km,02/2015,62 kW,Hyundai,i20,2015,Silber,Limousine,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+529,"
+€ 9.000,-
+",5.057 km,02/2015,63 kW,Hyundai,i20,2015,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+530,"
+€ 9.290,-
+",62.100 km,02/2015,74 kW,Hyundai,i20,2015,Braun,Limousine,Super 95,,"
+1.368 cm³
+"
+531,"
+€ 9.380,-
+",69.200 km,12/2015,74 kW,Hyundai,i20,2015,Rot,Kleinwagen,Super 95,,"
+1.368 cm³
+"
+532,,45.900 km,08/2015,74 kW,Hyundai,i20,2015,Weiß,Kleinwagen,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.368 cm³
+"
+533,"
+€ 9.400,-
+",67.141 km,05/2015,62 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,,no_data
+534,"
+€ 9.470,-
+",62.107 km,12/2015,62 kW,Hyundai,i20,2015,Grau,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+535,"
+€ 9.470,-
+",76.000 km,08/2015,55 kW,Hyundai,i20,2015,Braun,Kleinwagen,Diesel (Rußpartikelfilter),,"
+1.120 cm³
+"
+536,"
+€ 9.490,-
+",56.800 km,08/2015,74 kW,Hyundai,i20,2015,Rot,Kleinwagen,Super 95,,"
+1.368 cm³
+"
+537,"
+€ 9.490,-
+",36.100 km,03/2015,62 kW,Hyundai,i20,2015,Grau,Kleinwagen,Benzin,,no_data
+538,"
+€ 9.490,-
+",66.310 km,04/2015,74 kW,Hyundai,i20,2015,Braun,Limousine,Super 95,,"
+1.368 cm³
+"
+539,"
+€ 9.490,-
+",49.800 km,09/2015,62 kW,Hyundai,i20,2015,Grau,Limousine,Benzin,,no_data
+540,"
+€ 9.499,-
+",48.300 km,06/2015,62 kW,Hyundai,i20,2015,Grau,Kleinwagen,Super 95,,no_data
+541,"
+€ 9.800,-
+",47.555 km,07/2015,62 kW,Hyundai,i20,2015,Braun,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+542,"
+€ 9.900,-
+",67.000 km,06/2015,74 kW,Hyundai,i20,2015,Weiß,Limousine,Super 95,,no_data
+543,"
+€ 9.990,-
+",44.197 km,09/2015,62 kW,Hyundai,i20,2015,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+544,"
+€ 9.990,-
+",65.760 km,06/2015,74 kW,Hyundai,i20,2015,Blau,Kleinwagen,Super 95,,no_data
+545,"
+€ 9.990,-
+",14.000 km,08/2015,62 kW,Hyundai,i20,2015,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+546,"
+€ 9.990,-
+",31.794 km,10/2015,62 kW,Hyundai,i20,2015,Braun,Kleinwagen,Benzin,no_data_about_accident,no_data
+547,"
+€ 9.990,-
+",72.822 km,08/2015,62 kW,Hyundai,i20,2015,Grau,Kleinwagen,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+548,"
+€ 10.000,-
+",42.000 km,04/2015,62 kW,Hyundai,i20,2015,Orange,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+549,"
+€ 10.595,-
+",46.000 km,05/2015,74 kW,Hyundai,i20,2015,Orange,Kleinwagen,Super 95,"
+Ja
+","
+1.368 cm³
+"
+550,"
+€ 10.690,-
+",59.580 km,12/2015,74 kW,Hyundai,i20,2015,Braun,Limousine,Super 95 / Super E10 95 / Super Plus 98,no_data_about_accident,"
+1.368 cm³
+"
+551,"
+€ 10.700,-
+",48.000 km,08/2015,74 kW,Hyundai,i20,2015,Braun,Kleinwagen,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+552,"
+€ 10.770,-
+",51.160 km,06/2015,62 kW,Hyundai,i20,2015,Orange,Kleinwagen,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+553,"
+€ 10.790,-
+",33.471 km,09/2015,74 kW,Hyundai,i20,2015,Silber,Kleinwagen,Super 95,,no_data
+554,"
+€ 10.790,-
+",107.500 km,04/2015,66 kW,Hyundai,i20,2015,Weiß,Limousine,Diesel (Rußpartikelfilter),,"
+1.396 cm³
+"
+555,"
+€ 10.850,-
+",68.250 km,12/2015,62 kW,Hyundai,i20,2015,Grau,Kleinwagen,Benzin (Rußpartikelfilter),no_data_about_accident,"
+1.248 cm³
+"
+556,"
+€ 10.988,-
+",52.391 km,11/2015,74 kW,Hyundai,i20,2015,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+557,"
+€ 11.450,-
+",59.613 km,06/2015,74 kW,Hyundai,i20,2015,Rot,Limousine,Super 95,,no_data
+558,"
+€ 11.900,-
+",55.025 km,07/2015,74 kW,Hyundai,i20,2015,Rot,Kleinwagen,Super 95,,no_data
+559,"
+€ 11.900,-
+",52.000 km,07/2015,66 kW,Hyundai,i20,2015,Orange,Coupé,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+560,"
+€ 11.900,-
+",16.262 km,08/2015,74 kW,Hyundai,i20,2015,Bronze,Coupé,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+561,"
+€ 11.950,-
+",6.411 km,07/2015,74 kW,Hyundai,i20,2015,Blau,Kleinwagen,Super 95,"
+Ja
+","
+1.154 kg
+"
+562,"
+€ 7.890,-
+",32.712 km,06/2016,60 kW,Hyundai,i20,2016,Rot,Limousine,Super 95,,"
+1.248 cm³
+"
+563,"
+€ 7.890,-
+",32.712 km,06/2016,60 kW,Hyundai,i20,2016,Rot,Limousine,Super 95,,"
+1.248 cm³
+"
+564,"
+€ 7.770,-
+",61.200 km,08/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,"
+Ja
+","
+1.248 cm³
+"
+565,"
+€ 7.950,-
+",63.200 km,11/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,"
+36 Monate
+","
+1.248 cm³
+"
+566,"
+€ 8.990,-
+",26.853 km,01/2016,55 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95,,no_data
+567,"
+€ 8.990,-
+",32.616 km,08/2016,62 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+568,"
+€ 9.980,-
+",46.000 km,06/2016,74 kW,Hyundai,i20,2016,Silber,Kleinwagen,Super 95,,"
+998 cm³
+"
+569,"
+€ 8.490,-
+",84.217 km,01/2016,74 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95,,no_data
+570,"
+€ 11.790,-
+",36.521 km,11/2016,66 kW,Hyundai,i20,2016,Schwarz,Limousine,Diesel (Rußpartikelfilter),,no_data
+571,"
+€ 6.680,-
+",95.739 km,10/2016,55 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+572,"
+€ 6.888,-
+",65.555 km,04/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+573,"
+€ 6.890,-
+",77.000 km,02/2016,55 kW,Hyundai,i20,2016,Rot,Kleinwagen,Diesel (Rußpartikelfilter),,no_data
+574,"
+€ 6.900,-
+",62.000 km,05/2016,55 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+575,"
+€ 6.950,-
+",39.100 km,09/2016,62 kW,Hyundai,i20,2016,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+576,,91.200 km,04/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+577,"
+€ 7.300,-
+",90.500 km,05/2016,62 kW,Hyundai,i20,2016,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+578,"
+€ 7.405,-
+",82.150 km,05/2016,62 kW,Hyundai,i20,2016,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+579,"
+€ 7.490,-
+",54.455 km,08/2016,55 kW,Hyundai,i20,2016,Braun,Kleinwagen,Super 95,,no_data
+580,"
+€ 7.490,-
+",147.000 km,08/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+581,"
+€ 7.495,-
+",105.438 km,12/2016,74 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95,,"
+998 cm³
+"
+582,"
+€ 7.500,-
+",60.100 km,04/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Benzin,,no_data
+583,"
+€ 7.600,-
+",47.990 km,09/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,,no_data_about_accident,no_data
+584,"
+€ 7.650,-
+",44.760 km,09/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+585,"
+€ 7.790,-
+",83.974 km,02/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+586,"
+€ 7.800,-
+",63.500 km,01/2016,62 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+587,"
+€ 7.826,-
+",75.000 km,09/2016,55 kW,Hyundai,i20,2016,Schwarz,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.055 kg
+"
+588,"
+€ 7.900,-
+",90.500 km,06/2016,62 kW,Hyundai,i20,2016,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+589,"
+€ 7.900,-
+",51.000 km,05/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+590,"
+€ 7.940,-
+",71.121 km,09/2016,55 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95,,no_data
+591,"
+€ 7.950,-
+",45.500 km,12/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+592,"
+€ 7.990,-
+",39.700 km,11/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+593,"
+€ 7.990,-
+",79.000 km,08/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+594,,92.584 km,04/2016,62 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95,,"
+4
+"
+595,"
+€ 7.990,-
+",72.500 km,09/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,,"
+1.248 cm³
+"
+596,"
+€ 7.999,-
+",63.000 km,03/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+597,"
+€ 7.999,-
+",46.700 km,08/2016,54 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+2 cm³
+"
+598,"
+€ 8.000,-
+",64.000 km,10/2016,55 kW,Hyundai,i20,2016,Blau,Coupé,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+599,"
+€ 8.330,-
+",89.500 km,09/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,"
+Front
+"
+600,,53.000 km,01/2016,74 kW,Hyundai,i20,2016,Schwarz,Coupé,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+601,"
+€ 8.450,-
+",39.980 km,07/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Benzin,,no_data
+602,"
+€ 8.485,-
+",41.650 km,08/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+603,"
+€ 8.490,-
+",56.761 km,12/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Super 95,,"
+1.248 cm³
+"
+604,"
+€ 8.490,-
+",64.000 km,07/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+605,"
+€ 8.499,-
+",29.000 km,12/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+606,"
+€ 8.590,-
+",70.750 km,05/2016,74 kW,Hyundai,i20,2016,Braun,Coupé,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+607,"
+€ 8.595,-
+",43.500 km,11/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+608,"
+€ 8.599,-
+",39.000 km,07/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+609,"
+€ 8.650,-
+",45.400 km,09/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+610,"
+€ 8.699,-
+",32.000 km,12/2016,55 kW,Hyundai,i20,2016,Silber,Limousine,Diesel,no_data_about_accident,"
+1.120 cm³
+"
+611,"
+€ 8.750,-
+",121.000 km,10/2016,74 kW,Hyundai,i20,2016,Schwarz,Sonstige,Super 95,,"
+998 cm³
+"
+612,"
+€ 8.750,-
+",91.891 km,05/2016,74 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95 / Super E10 95 / Super Plus 98,no_data_about_accident,"
+998 cm³
+"
+613,,40.108 km,06/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+614,"
+€ 8.785,-
+",62.350 km,11/2016,55 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+615,"
+€ 8.790,-
+",100.000 km,09/2016,55 kW,Hyundai,i20,2016,Schwarz,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+616,"
+€ 8.790,-
+",63.000 km,02/2016,74 kW,Hyundai,i20,2016,Silber,Coupé,Super 95,,no_data
+617,"
+€ 8.798,-
+",38.168 km,02/2016,62 kW,Hyundai,i20,2016,Blau,Limousine,Super 95,,"
+1.248 cm³
+"
+618,"
+€ 8.800,-
+",43.000 km,12/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+619,"
+€ 8.880,-
+",73.223 km,04/2016,55 kW,Hyundai,i20,2016,Weiß,Sonstige,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+620,"
+€ 8.899,-
+",81.708 km,09/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+621,"
+€ 8.900,-
+",31.803 km,08/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+622,"
+€ 8.900,-
+",58.035 km,05/2016,74 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+623,"
+€ 8.900,-
+",61.490 km,07/2016,55 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Super 95 (Rußpartikelfilter),,no_data
+624,"
+€ 8.900,-
+",41.000 km,07/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+998 cm³
+"
+625,"
+€ 8.950,-
+",72.405 km,04/2016,74 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,,"
+1.368 cm³
+"
+626,"
+€ 8.950,-
+",28.477 km,07/2016,74 kW,Hyundai,i20,2016,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+627,"
+€ 8.950,-
+",25.500 km,11/2016,62 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,,no_data
+628,"
+€ 8.985,-
+",43.850 km,03/2016,62 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Benzin,no_data_about_accident,no_data
+629,"
+€ 8.988,-
+",47.700 km,01/2016,62 kW,Hyundai,i20,2016,Silber,Kleinwagen,Super 95,,"
+Front
+"
+630,"
+€ 8.989,-
+",46.545 km,07/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+631,"
+€ 8.990,-
+",90.510 km,02/2016,62 kW,Hyundai,i20,2016,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+632,"
+€ 8.990,-
+",57.980 km,03/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+633,"
+€ 8.990,-
+",23.500 km,11/2016,55 kW,Hyundai,i20,2016,Braun,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+634,"
+€ 9.300,-
+",59.670 km,02/2016,62 kW,Hyundai,i20,2016,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+635,"
+€ 9.300,-
+",32.600 km,07/2016,62 kW,Hyundai,i20,2016,Silber,Limousine,Super 95 / Super Plus 98,,"
+1.248 cm³
+"
+636,"
+€ 9.390,-
+",39.065 km,05/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Super 95,no_data_about_accident,no_data
+637,"
+€ 9.480,-
+",79.000 km,12/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+638,"
+€ 9.490,-
+",21.600 km,10/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,"
+1.055 kg
+"
+639,"
+€ 9.490,-
+",38.758 km,05/2016,62 kW,Hyundai,i20,2016,Schwarz,Limousine,Super E10 95 / Super 95 / Super Plus 98 / Super Plus E10 98,no_data_about_accident,"
+1.248 cm³
+"
+640,"
+€ 9.500,-
+",37.700 km,06/2016,62 kW,Hyundai,i20,2016,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+641,"
+€ 9.500,-
+",19.500 km,09/2016,55 kW,Hyundai,i20,2016,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+642,"
+€ 9.550,-
+",27.637 km,07/2016,62 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+643,"
+€ 9.550,-
+",33.445 km,02/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+644,"
+€ 9.699,-
+",36.500 km,11/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+645,"
+€ 9.700,-
+",29.750 km,09/2016,55 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+646,"
+€ 9.780,-
+",53.500 km,06/2016,62 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Super 95,,no_data
+647,"
+€ 9.790,-
+",57.000 km,12/2016,88 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super E10 95,,"
+998 cm³
+"
+648,"
+€ 9.790,-
+",21.600 km,07/2016,55 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+649,"
+€ 9.800,-
+",51.220 km,09/2016,74 kW,Hyundai,i20,2016,Limousine,Schaltgetriebe,,,"
+998 cm³
+"
+650,"
+€ 9.800,-
+",30.055 km,03/2016,74 kW,Hyundai,i20,2016,Grau,Limousine,Benzin,,"
+1.368 cm³
+"
+651,"
+€ 9.800,-
+",33.434 km,03/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+652,"
+€ 9.850,-
+",58.935 km,03/2016,74 kW,Hyundai,i20,2016,Schwarz,Coupé,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+653,"
+€ 9.890,-
+",75.900 km,02/2016,66 kW,Hyundai,i20,2016,Limousine,Schaltgetriebe,,,no_data
+654,"
+€ 9.890,-
+",80.842 km,07/2016,88 kW,Hyundai,i20,2016,Grau,Limousine,Super 95 / Normal/Benzin 91,,"
+998 cm³
+"
+655,"
+€ 9.898,-
+",62.119 km,01/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Super 95,,"
+1.248 cm³
+"
+656,"
+€ 9.899,-
+",26.340 km,08/2016,62 kW,Hyundai,i20,2016,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+657,"
+€ 9.899,-
+",91.000 km,08/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+998 cm³
+"
+658,"
+€ 9.900,-
+",60.700 km,06/2016,74 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+659,"
+€ 9.900,-
+",70.508 km,11/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+660,"
+€ 9.950,-
+",87.100 km,05/2016,74 kW,Hyundai,i20,2016,Weiß,Coupé,Super 95,,no_data
+661,"
+€ 9.950,-
+",87.100 km,05/2016,74 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,,no_data
+662,"
+€ 9.970,-
+",39.591 km,07/2016,55 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+663,"
+€ 9.985,-
+",42.500 km,05/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+664,"
+€ 9.990,-
+",43.500 km,07/2016,61 kW,Hyundai,i20,2016,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+665,"
+€ 9.990,-
+",89.600 km,09/2016,88 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95 / Super E10 95,,"
+998 cm³
+"
+666,"
+€ 9.990,-
+",59.600 km,04/2016,62 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+667,"
+€ 9.990,-
+",49.400 km,01/2016,74 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+668,,59.000 km,06/2016,88 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95,,no_data
+669,"
+€ 9.999,-
+",24.600 km,05/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+670,"
+€ 10.000,-
+",97.500 km,05/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+998 cm³
+"
+671,"
+€ 10.250,-
+",14.635 km,06/2016,62 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,"
+Ja
+","
+1.055 kg
+"
+672,"
+€ 10.250,-
+",26.500 km,11/2016,62 kW,Hyundai,i20,2016,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+673,"
+€ 10.300,-
+",87.000 km,07/2016,88 kW,Hyundai,i20,2016,Blau,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+674,"
+€ 10.300,-
+",86.300 km,09/2016,88 kW,Hyundai,i20,2016,Blau,Limousine,Benzin,,"
+998 cm³
+"
+675,"
+€ 10.450,-
+",19.950 km,06/2016,62 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,,no_data
+676,"
+€ 10.450,-
+",20.433 km,10/2016,74 kW,Hyundai,i20,2016,Silber,Kleinwagen,Benzin,,no_data
+677,"
+€ 10.470,-
+",53.600 km,01/2016,74 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+678,"
+€ 10.490,-
+",66.387 km,07/2016,74 kW,Hyundai,i20,2016,Rot,Limousine,Super 95,no_data_about_accident,no_data
+679,"
+€ 10.490,-
+",83.300 km,06/2016,88 kW,Hyundai,i20,2016,Orange,Limousine,Super 95,,"
+998 cm³
+"
+680,"
+€ 10.500,-
+",53.000 km,06/2016,74 kW,Hyundai,i20,2016,Grau,Limousine,Normal/Benzin E10 91 / Normal/Benzin 91,,"
+998 cm³
+"
+681,"
+€ 10.590,-
+",20.000 km,07/2016,62 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+682,"
+€ 10.690,-
+",19.000 km,06/2016,74 kW,Hyundai,i20,2016,Silber,Limousine,Normal/Benzin E10 91 / Super E10 95 / Normal/Benzin 91 / Super 95,"
+12 Monate
+","
+998 cm³
+"
+683,"
+€ 10.690,-
+",34.000 km,08/2016,61 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+684,"
+€ 10.700,-
+",48.500 km,06/2016,62 kW,Hyundai,i20,2016,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+685,"
+€ 10.780,-
+",47.000 km,09/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+998 cm³
+"
+686,"
+€ 10.799,-
+",58.326 km,02/2016,88 kW,Hyundai,i20,2016,Orange,SUV/Geländewagen/Pickup,Super 95,no_data_about_accident,no_data
+687,"
+€ 10.850,-
+",73.000 km,06/2016,88 kW,Hyundai,i20,2016,Orange,Limousine,Super E10 95 / Super Plus E10 98 / Super Plus 98,"
+12 Monate
+","
+998 cm³
+"
+688,"
+€ 10.990,-
+",55.590 km,10/2016,74 kW,Hyundai,i20,2016,Limousine,Schaltgetriebe,,,no_data
+689,"
+€ 10.990,-
+",68.157 km,04/2016,88 kW,Hyundai,i20,2016,Orange,Limousine,Benzin,,"
+1.000 cm³
+"
+690,"
+€ 10.990,-
+",57.200 km,08/2016,88 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,,"
+998 cm³
+"
+691,"
+€ 10.990,-
+",49.900 km,11/2016,88 kW,Hyundai,i20,2016,Braun,Limousine,Super 95 / Normal/Benzin 91 / Super E10 95,,"
+998 cm³
+"
+692,"
+€ 10.990,-
+",47.500 km,10/2016,74 kW,Hyundai,i20,2016,Orange,Limousine,Super E10 95,,"
+1.368 cm³
+"
+693,"
+€ 11.000,-
+",71.000 km,04/2016,88 kW,Hyundai,i20,2016,Orange,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+694,,30.000 km,08/2016,74 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Benzin,,no_data
+695,"
+€ 11.399,-
+",44.000 km,08/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+696,"
+€ 11.490,-
+",37.500 km,10/2016,74 kW,Hyundai,i20,2016,Schwarz,Limousine,Super E10 95 / Normal/Benzin 91 / Normal/Benzin E10 91 / Super Plus E10 98 / Super Plus 98,"
+12 Monate
+","
+998 cm³
+"
+697,"
+€ 11.490,-
+",26.200 km,08/2016,62 kW,Hyundai,i20,2016,Braun,Kleinwagen,Super 95,,no_data
+698,"
+€ 11.490,-
+",52.600 km,05/2016,74 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95,,no_data
+699,"
+€ 11.490,-
+",43.536 km,12/2016,88 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Super 95,,"
+998 cm³
+"
+700,"
+€ 11.490,-
+",54.700 km,09/2016,88 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+998 cm³
+"
+701,"
+€ 11.500,-
+",33.800 km,07/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,no_data
+702,"
+€ 11.500,-
+",67.000 km,08/2016,62 kW,Hyundai,i20,2016,Silber,Kleinwagen,Super 95,,no_data
+703,"
+€ 11.599,-
+",34.595 km,05/2016,88 kW,Hyundai,i20,2016,Rot,Kleinwagen,Benzin,no_data_about_accident,"
+998 cm³
+"
+704,"
+€ 11.690,-
+",19.200 km,07/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Super E10 95 / Super 95,"
+12 Monate
+","
+998 cm³
+"
+705,"
+€ 11.790,-
+",88.850 km,07/2016,88 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95 / Super E10 95 / Super Plus 98,no_data_about_accident,"
+998 cm³
+"
+706,"
+€ 11.790,-
+",89.925 km,06/2016,74 kW,Hyundai,i20,2016,Rot,Kleinwagen,Super 95,,no_data
+707,"
+€ 11.790,-
+",57.820 km,06/2016,88 kW,Hyundai,i20,2016,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+998 cm³
+"
+708,"
+€ 11.865,-
+",22.500 km,06/2016,74 kW,Hyundai,i20,2016,Bronze,Limousine,Super 95 / Super E10 95,,"
+998 cm³
+"
+709,"
+€ 11.900,-
+",18.500 km,05/2016,74 kW,Hyundai,i20,2016,Braun,Limousine,Benzin,,"
+1.197 kg
+"
+710,"
+€ 11.930,-
+",29.700 km,07/2016,55 kW,Hyundai,i20,2016,Schwarz,Limousine,Diesel (Rußpartikelfilter),,"
+1.120 cm³
+"
+711,,65.000 km,11/2016,62 kW,Hyundai,i20,2016,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+712,"
+€ 11.950,-
+",39.947 km,06/2016,66 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),"
+Ja
+","
+1.240 kg
+"
+713,"
+€ 11.980,-
+",15.700 km,02/2016,74 kW,Hyundai,i20,2016,Weiß,Limousine,Super 95,,"
+1.135 kg
+"
+714,"
+€ 11.980,-
+",25.000 km,11/2016,74 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Super 95,,no_data
+715,"
+€ 11.980,-
+",21.200 km,08/2016,88 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Super 95,,"
+998 cm³
+"
+716,"
+€ 11.980,-
+",33.890 km,11/2016,74 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Benzin,,no_data
+717,"
+€ 11.980,-
+",42.600 km,04/2016,88 kW,Hyundai,i20,2016,Orange,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+718,"
+€ 11.990,-
+",47.297 km,03/2016,88 kW,Hyundai,i20,2016,Orange,Kleinwagen,Super 95,,no_data
+719,"
+€ 11.990,-
+",37.700 km,01/2016,74 kW,Hyundai,i20,2016,Orange,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.368 cm³
+"
+720,"
+€ 12.000,-
+",42.000 km,11/2016,74 kW,Hyundai,i20,2016,Grau,Limousine,Benzin,,"
+998 cm³
+"
+721,"
+€ 12.000,-
+",42.000 km,11/2016,74 kW,Hyundai,i20,2016,Grau,Limousine,Benzin,,"
+998 cm³
+"
+722,"
+€ 12.000,-
+",34.700 km,12/2016,88 kW,Hyundai,i20,2016,Bronze,Limousine,Benzin,,"
+998 cm³
+"
+723,"
+€ 12.480,-
+",30.626 km,06/2016,88 kW,Hyundai,i20,2016,Grau,SUV/Geländewagen/Pickup,Super 95,,"
+998 cm³
+"
+724,"
+€ 12.500,-
+",14.990 km,10/2016,88 kW,Hyundai,i20,2016,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.310 kg
+"
+725,"
+€ 12.850,-
+",63.170 km,06/2016,88 kW,Hyundai,i20,2016,Rot,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+726,"
+€ 13.490,-
+",25.879 km,07/2016,88 kW,Hyundai,i20,2016,Weiß,Kleinwagen,Normal/Benzin 91 / Super Plus 98 / Super 95,,"
+998 cm³
+"
+727,"
+€ 13.490,-
+",24.253 km,10/2016,88 kW,Hyundai,i20,2016,Schwarz,Kleinwagen,Benzin,,no_data
+728,"
+€ 13.700,-
+",53.180 km,05/2016,74 kW,Hyundai,i20,2016,Weiß,Limousine,Benzin,,"
+1.368 cm³
+"
+729,"
+€ 13.900,-
+",27.000 km,04/2016,88 kW,Hyundai,i20,2016,Orange,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+998 cm³
+"
+730,"
+€ 17.490,-
+",8.033 km,06/2016,88 kW,Hyundai,i20,2016,Orange,Kleinwagen,Super 95,,"
+998 cm³
+"
+731,"
+€ 8.990,-
+",25.800 km,10/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,,no_data
+732,"
+€ 9.490,-
+",43.529 km,06/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+733,"
+€ 9.500,-
+",51.504 km,12/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+734,"
+€ 9.950,-
+",48.300 km,12/2017,62 kW,Hyundai,i20,2017,Blau,Limousine,Super 95,,"
+1.248 cm³
+"
+735,"
+€ 10.240,-
+",44.470 km,05/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+736,"
+€ 10.480,-
+",49.411 km,08/2017,74 kW,Hyundai,i20,2017,Grau,Kleinwagen,Super E10 95 / Super 95,no_data_about_accident,"
+998 cm³
+"
+737,"
+€ 10.900,-
+",32.778 km,01/2017,62 kW,Hyundai,i20,2017,Rot,Limousine,Super 95,,no_data
+738,"
+€ 11.499,-
+",13.000 km,10/2017,62 kW,Hyundai,i20,2017,Grau,Kleinwagen,Super 95,,no_data
+739,"
+€ 8.980,-
+",23.876 km,04/2017,55 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+740,"
+€ 9.350,-
+",68.041 km,03/2017,74 kW,Hyundai,i20,2017,Grau,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+998 cm³
+"
+741,"
+€ 9.900,-
+",33.255 km,11/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,"
+12 Monate
+","
+1.248 cm³
+"
+742,"
+€ 11.190,-
+",15.400 km,10/2017,74 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,,"
+1.368 cm³
+"
+743,"
+€ 10.550,-
+",36.650 km,09/2017,74 kW,Hyundai,i20,2017,Blau,Limousine,Super 95,,"
+998 cm³
+"
+744,"
+€ 10.999,-
+",17.800 km,09/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Super E10 95,,"
+1.248 cm³
+"
+745,"
+€ 12.890,-
+",45.200 km,05/2017,74 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,,no_data
+746,"
+€ 7.300,-
+",69.000 km,04/2017,55 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+747,"
+€ 7.580,-
+",41.445 km,07/2017,55 kW,Hyundai,i20,2017,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+748,"
+€ 7.777,-
+",18.500 km,10/2017,74 kW,Hyundai,i20,2017,Silber,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+749,"
+€ 7.900,-
+",53.076 km,03/2017,55 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+750,"
+€ 7.990,-
+",55.000 km,11/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super E10 95,,"
+1.248 cm³
+"
+751,"
+€ 7.990,-
+",66.266 km,05/2017,55 kW,Hyundai,i20,2017,Blau,Kleinwagen,Super 95,no_data_about_accident,no_data
+752,"
+€ 8.080,-
+",12.000 km,07/2017,62 kW,Hyundai,i20,2017,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+753,"
+€ 8.080,-
+",12.000 km,07/2017,62 kW,Hyundai,i20,2017,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+754,"
+€ 8.200,-
+",42.000 km,10/2017,62 kW,Hyundai,i20,2017,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+755,"
+€ 8.400,-
+",25.795 km,10/2017,55 kW,Hyundai,i20,2017,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+756,"
+€ 8.490,-
+",28.100 km,08/2017,62 kW,Hyundai,i20,2017,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+757,"
+€ 8.490,-
+",47.996 km,09/2017,55 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super 95,,no_data
+758,"
+€ 8.490,-
+",65.000 km,01/2017,55 kW,Hyundai,i20,2017,Weiß,Sonstige,Super 95,,"
+1.055 kg
+"
+759,"
+€ 8.499,-
+",67.148 km,07/2017,62 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,,no_data
+760,"
+€ 8.499,-
+",54.700 km,02/2017,55 kW,Hyundai,i20,2017,Silber,Limousine,Super 95,,no_data
+761,"
+€ 8.590,-
+",57.315 km,03/2017,55 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+762,"
+€ 8.750,-
+",37.000 km,07/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+763,"
+€ 8.790,-
+",47.400 km,03/2017,55 kW,Hyundai,i20,2017,Weiß,Limousine,Normal/Benzin E10 91 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+764,"
+€ 8.850,-
+",39.985 km,12/2017,74 kW,Hyundai,i20,2017,Braun,Kleinwagen,Benzin,,no_data
+765,"
+€ 8.890,-
+",27.842 km,06/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,"
+06/2020
+","
+1.248 cm³
+"
+766,"
+€ 8.890,-
+",44.700 km,05/2017,62 kW,Hyundai,i20,2017,Schwarz,Sonstige,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+767,"
+€ 8.900,-
+",17.000 km,09/2017,55 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+768,"
+€ 8.900,-
+",59.990 km,03/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,,no_data
+769,"
+€ 8.950,-
+",35.896 km,01/2017,74 kW,Hyundai,i20,2017,Silber,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+770,"
+€ 8.950,-
+",36.000 km,07/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+771,"
+€ 8.990,-
+",73.268 km,06/2017,74 kW,Hyundai,i20,2017,Braun,Limousine,Benzin,,no_data
+772,"
+€ 8.990,-
+",43.500 km,02/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,,no_data
+773,"
+€ 8.990,-
+",40.500 km,02/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+774,"
+€ 8.990,-
+",41.570 km,09/2017,55 kW,Hyundai,i20,2017,Grau,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.248 cm³
+"
+775,,27.600 km,06/2017,55 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+776,"
+€ 8.990,-
+",37.600 km,03/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+777,"
+€ 8.999,-
+",70.000 km,06/2017,74 kW,Hyundai,i20,2017,Rot,Limousine,Super 95,,no_data
+778,"
+€ 9.200,-
+",49.400 km,03/2017,74 kW,Hyundai,i20,2017,Weiß,Limousine,Benzin,,"
+998 cm³
+"
+779,"
+€ 9.200,-
+",36.000 km,06/2017,62 kW,Hyundai,i20,2017,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+780,"
+€ 9.300,-
+",29.200 km,03/2017,62 kW,Hyundai,i20,2017,Braun,Limousine,Benzin,,"
+1.248 cm³
+"
+781,"
+€ 9.300,-
+",22.000 km,09/2017,55 kW,Hyundai,i20,2017,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+782,"
+€ 9.390,-
+",56.600 km,09/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+783,"
+€ 9.450,-
+",17.000 km,01/2017,62 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+784,"
+€ 9.454,-
+",57.427 km,12/2017,62 kW,Hyundai,i20,2017,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+785,"
+€ 9.490,-
+",33.071 km,08/2017,55 kW,Hyundai,i20,2017,Silber,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+786,"
+€ 9.490,-
+",14.790 km,08/2017,55 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super 95,,no_data
+787,"
+€ 9.590,-
+",45.951 km,12/2017,62 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+788,"
+€ 9.590,-
+",32.447 km,12/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+789,"
+€ 9.598,-
+",41.582 km,12/2017,62 kW,Hyundai,i20,2017,Gold,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+790,"
+€ 9.598,-
+",40.602 km,12/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+791,"
+€ 9.600,-
+",18.625 km,03/2017,55 kW,Hyundai,i20,2017,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+792,"
+€ 9.660,-
+",28.300 km,07/2017,62 kW,Hyundai,i20,2017,Grau,Limousine,Super 95,,"
+Front
+"
+793,"
+€ 9.680,-
+",12.600 km,06/2017,62 kW,Hyundai,i20,2017,Grau,Sonstige,Super 95,no_data_about_accident,"
+1.055 kg
+"
+794,"
+€ 9.690,-
+",53.846 km,05/2017,55 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+795,"
+€ 9.698,-
+",38.039 km,12/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+796,"
+€ 9.700,-
+",48.268 km,08/2017,74 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,,no_data
+797,"
+€ 9.746,-
+",29.100 km,03/2017,55 kW,Hyundai,i20,2017,Blau,Limousine,Super 95,,"
+1.248 cm³
+"
+798,"
+€ 9.800,-
+",50.000 km,09/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+799,"
+€ 9.800,-
+",6.464 km,05/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+800,"
+€ 9.800,-
+",21.500 km,03/2017,55 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+801,"
+€ 9.850,-
+",55.511 km,06/2017,62 kW,Hyundai,i20,2017,Rot,Limousine,Super 95,,no_data
+802,"
+€ 9.890,-
+",78.408 km,09/2017,62 kW,Hyundai,i20,2017,Rot,Kleinwagen,Super 95,"
+09/2020
+","
+1.248 cm³
+"
+803,"
+€ 9.900,-
+",64.947 km,06/2017,62 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super 95,,no_data
+804,"
+€ 9.950,-
+",19.047 km,12/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+805,"
+€ 9.950,-
+",14.863 km,07/2017,55 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+806,"
+€ 9.970,-
+",62.006 km,06/2017,55 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super 95,no_data_about_accident,no_data
+807,"
+€ 9.990,-
+",46.815 km,12/2017,62 kW,Hyundai,i20,2017,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+808,"
+€ 9.990,-
+",36.375 km,12/2017,62 kW,Hyundai,i20,2017,Orange,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+809,"
+€ 9.990,-
+",39.799 km,12/2017,62 kW,Hyundai,i20,2017,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+810,"
+€ 9.990,-
+",42.625 km,12/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+811,"
+€ 9.990,-
+",41.938 km,12/2017,62 kW,Hyundai,i20,2017,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+812,"
+€ 9.990,-
+",16.200 km,06/2017,62 kW,Hyundai,i20,2017,Rot,Limousine,Benzin,,"
+1.248 cm³
+"
+813,"
+€ 9.999,-
+",75.000 km,09/2017,62 kW,Hyundai,i20,2017,Grau,Kleinwagen,Super 95,no_data_about_accident,no_data
+814,"
+€ 9.999,-
+",26.000 km,05/2017,62 kW,Hyundai,i20,2017,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+815,"
+€ 10.250,-
+",40.300 km,05/2017,74 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,,"
+998 cm³
+"
+816,"
+€ 10.280,-
+",18.000 km,07/2017,55 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,no_data_about_accident,"
+4
+"
+817,"
+€ 10.295,-
+",30.700 km,07/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,"
+10/2020
+","
+1.248 cm³
+"
+818,"
+€ 10.499,-
+",44.500 km,06/2017,62 kW,Hyundai,i20,2017,Rot,Limousine,Super 95 (Rußpartikelfilter),,"
+4
+"
+819,"
+€ 10.500,-
+",78.000 km,05/2017,88 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+820,"
+€ 10.500,-
+",59.000 km,12/2017,74 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+821,"
+€ 10.500,-
+",20.000 km,11/2017,55 kW,Hyundai,i20,2017,Schwarz,Limousine,,no_data_about_accident,no_data
+822,"
+€ 10.500,-
+",30.710 km,10/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+823,"
+€ 10.550,-
+",26.489 km,10/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+824,"
+€ 10.598,-
+",37.386 km,01/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+825,"
+€ 10.790,-
+",61.500 km,08/2017,88 kW,Hyundai,i20,2017,Schwarz,Limousine,Super Plus 98,no_data_about_accident,"
+998 cm³
+"
+826,"
+€ 10.800,-
+",44.098 km,02/2017,74 kW,Hyundai,i20,2017,Blau,Kleinwagen,Super 95,,"
+1.368 cm³
+"
+827,"
+€ 10.800,-
+",8.000 km,06/2017,55 kW,Hyundai,i20,2017,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+828,"
+€ 10.890,-
+",16.325 km,12/2017,62 kW,Hyundai,i20,2017,Weiß,Sonstige,Super 95,"
+01/2020
+","
+1.248 cm³
+"
+829,"
+€ 10.900,-
+",69.700 km,06/2017,66 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),,"
+1.396 cm³
+"
+830,"
+€ 10.900,-
+",46.500 km,06/2017,88 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,"
+12 Monate
+","
+998 cm³
+"
+831,"
+€ 10.900,-
+",51.762 km,04/2017,66 kW,Hyundai,i20,2017,Braun,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+832,"
+€ 10.900,-
+",43.000 km,03/2017,74 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Benzin,,no_data
+833,"
+€ 10.980,-
+",32.150 km,05/2017,62 kW,Hyundai,i20,2017,Silber,Limousine,Super 95,no_data_about_accident,no_data
+834,"
+€ 10.990,-
+",38.800 km,09/2017,66 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Diesel (Rußpartikelfilter),"
+24 Monate
+","
+1.396 cm³
+"
+835,"
+€ 10.990,-
+",38.900 km,12/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Normal/Benzin 91,no_data_about_accident,"
+1.248 cm³
+"
+836,"
+€ 10.990,-
+",82.884 km,10/2017,74 kW,Hyundai,i20,2017,Blau,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+837,"
+€ 10.990,-
+",25.000 km,01/2017,62 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+838,"
+€ 10.999,-
+",41.440 km,03/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+839,"
+€ 10.999,-
+",23.000 km,12/2017,62 kW,Hyundai,i20,2017,Blau,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+840,"
+€ 11.220,-
+",31.701 km,09/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,no_data
+841,"
+€ 11.390,-
+",80.000 km,02/2017,88 kW,Hyundai,i20,2017,Grau,Limousine,Benzin,,"
+998 cm³
+"
+842,"
+€ 11.450,-
+",63.000 km,09/2017,88 kW,Hyundai,i20,2017,Silber,Kleinwagen,Benzin,no_data_about_accident,no_data
+843,"
+€ 11.490,-
+",36.250 km,06/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Benzin,no_data_about_accident,no_data
+844,"
+€ 11.490,-
+",36.250 km,06/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Benzin,no_data_about_accident,no_data
+845,"
+€ 11.600,-
+",31.600 km,11/2017,88 kW,Hyundai,i20,2017,Schwarz,Limousine,Benzin,,"
+998 cm³
+"
+846,"
+€ 11.735,-
+",25.300 km,06/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+847,"
+€ 11.750,-
+",12.500 km,04/2017,62 kW,Hyundai,i20,2017,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+848,"
+€ 11.850,-
+",34.850 km,02/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95 (Rußpartikelfilter),,no_data
+849,,22.100 km,11/2017,88 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,"
+Front
+"
+850,"
+€ 11.880,-
+",29.133 km,07/2017,74 kW,Hyundai,i20,2017,Rot,Limousine,Super 95,,no_data
+851,"
+€ 11.900,-
+",38.000 km,04/2017,62 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+852,"
+€ 11.900,-
+",6.000 km,11/2017,62 kW,Hyundai,i20,2017,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+853,"
+€ 11.930,-
+",70.500 km,03/2017,88 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Benzin,no_data_about_accident,"
+998 cm³
+"
+854,"
+€ 11.950,-
+",44.350 km,08/2017,74 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+998 cm³
+"
+855,"
+€ 11.950,-
+",42.000 km,09/2017,74 kW,Hyundai,i20,2017,Silber,Limousine,Benzin,,"
+998 cm³
+"
+856,"
+€ 11.980,-
+",56.000 km,06/2017,74 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,,"
+998 cm³
+"
+857,"
+€ 11.985,-
+",12.500 km,06/2017,74 kW,Hyundai,i20,2017,Weiß,Limousine,Super E10 95,no_data_about_accident,"
+998 cm³
+"
+858,"
+€ 11.999,-
+",9.000 km,07/2017,62 kW,Hyundai,i20,2017,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+859,"
+€ 12.300,-
+",13.500 km,05/2017,88 kW,Hyundai,i20,2017,Rot,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+860,"
+€ 12.350,-
+",32.255 km,09/2017,74 kW,Hyundai,i20,2017,Silber,Kleinwagen,Super 95,"
+Ja
+","
+1.140 kg
+"
+861,"
+€ 12.490,-
+",40.250 km,02/2017,88 kW,Hyundai,i20,2017,Weiß,Limousine,Super 95,,"
+998 cm³
+"
+862,"
+€ 12.490,-
+",37.500 km,11/2017,74 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Benzin,,no_data
+863,"
+€ 12.490,-
+",30.000 km,09/2017,88 kW,Hyundai,i20,2017,Blau,Limousine,Benzin,,"
+998 cm³
+"
+864,"
+€ 12.500,-
+",27.530 km,06/2017,62 kW,Hyundai,i20,2017,Rot,Limousine,Benzin,,"
+1.248 cm³
+"
+865,"
+€ 12.950,-
+",13.271 km,07/2017,74 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,"
+12 Monate
+","
+1.140 kg
+"
+866,"
+€ 12.974,-
+",24.975 km,10/2017,88 kW,Hyundai,i20,2017,Limousine,Schaltgetriebe,,no_data_about_accident,"
+998 cm³
+"
+867,"
+€ 12.990,-
+",38.450 km,08/2017,62 kW,Hyundai,i20,2017,Grau,Kleinwagen,Super 95,,no_data
+868,"
+€ 12.990,-
+",11.000 km,11/2017,74 kW,Hyundai,i20,2017,Braun,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.125 kg
+"
+869,"
+€ 12.990,-
+",39.957 km,04/2017,88 kW,Hyundai,i20,2017,Orange,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+870,"
+€ 13.000,-
+",20.334 km,09/2017,74 kW,Hyundai,i20,2017,Rot,Limousine,Benzin,no_data_about_accident,"
+1.368 cm³
+"
+871,"
+€ 13.290,-
+",18.000 km,08/2017,74 kW,Hyundai,i20,2017,Schwarz,Limousine,Super 95,no_data_about_accident,"
+4
+"
+872,"
+€ 13.450,-
+",48.263 km,05/2017,88 kW,Hyundai,i20,2017,Grau,Kleinwagen,Super 95,,no_data
+873,"
+€ 13.450,-
+",26.918 km,07/2017,74 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,"
+Ja
+","
+1.154 kg
+"
+874,"
+€ 13.555,-
+",13.200 km,08/2017,62 kW,Hyundai,i20,2017,Schwarz,Kleinwagen,Super 95,,no_data
+875,"
+€ 13.890,-
+",16.100 km,06/2017,88 kW,Hyundai,i20,2017,Weiß,Kleinwagen,Super 95,,"
+4
+"
+876,"
+€ 13.989,-
+",46.690 km,05/2017,66 kW,Hyundai,i20,2017,Blau,Kleinwagen,Diesel (Rußpartikelfilter),,"
+1.396 cm³
+"
+877,"
+€ 14.300,-
+",23.049 km,12/2017,92 kW,Hyundai,i20,2017,Silber,Kleinwagen,Benzin,no_data_about_accident,no_data
+878,"
+€ 8.990,-
+",60.038 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+879,"
+€ 8.990,-
+",56.576 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+880,"
+€ 8.990,-
+",55.293 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,,"
+1.198 cm³
+"
+881,"
+€ 9.480,-
+",33.946 km,07/2018,62 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95 / Super Plus 98,,"
+1.248 cm³
+"
+882,"
+€ 9.750,-
+",49.531 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+883,"
+€ 10.490,-
+",8.200 km,05/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,,"
+1.248 cm³
+"
+884,"
+€ 11.390,-
+",10.000 km,05/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,,"
+1.248 cm³
+"
+885,"
+€ 9.222,-
+",32.500 km,09/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+886,"
+€ 9.990,-
+",13.500 km,10/2018,62 kW,Hyundai,i20,2018,Silber,Kleinwagen,Super 95,no_data_about_accident,no_data
+887,"
+€ 10.600,-
+",37.178 km,01/2018,74 kW,Hyundai,i20,2018,Braun,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+998 cm³
+"
+888,"
+€ 11.990,-
+",36.000 km,06/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Normal/Benzin E10 91 / Super E10 95 / Super 95,,"
+1.368 cm³
+"
+889,"
+€ 12.399,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,,no_data
+890,,50.623 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+891,"
+€ 8.000,-
+",50.654 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+892,"
+€ 8.900,-
+",43.100 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+893,"
+€ 10.590,-
+",10.500 km,09/2018,55 kW,Hyundai,i20,2018,Blau,Kleinwagen,Benzin,,no_data
+894,"
+€ 13.250,-
+",11.796 km,10/2018,74 kW,Hyundai,i20,2018,Silber,Limousine,Super 95,,"
+3
+"
+895,"
+€ 13.540,-
+",10 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Benzin,,no_data
+896,"
+€ 13.599,-
+",10 km,12/2018,62 kW,Hyundai,i20,2018,Silber,Kleinwagen,Benzin,,no_data
+897,"
+€ 13.900,-
+",10 km,11/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Normal/Benzin E10 91,no_data_about_accident,"
+1.368 cm³
+"
+898,"
+€ 7.210,-
+",44.646 km,04/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+899,,51.200 km,01/2018,55 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+900,"
+€ 8.100,-
+",20.597 km,06/2018,62 kW,Hyundai,i20,2018,Braun,Benzin,,no_data_about_accident,no_data
+901,"
+€ 8.200,-
+",7.000 km,03/2018,55 kW,Hyundai,i20,2018,Grau,Kleinwagen,Benzin,no_data_about_accident,"
+4
+"
+902,"
+€ 8.222,-
+",54.000 km,11/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+903,"
+€ 8.250,-
+",39.640 km,03/2018,55 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+904,"
+€ 8.390,-
+",55.500 km,12/2018,55 kW,Hyundai,i20,2018,Braun,Limousine,Benzin,,"
+1.248 cm³
+"
+905,"
+€ 8.450,-
+",54.107 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+906,"
+€ 8.450,-
+",52.513 km,12/2018,55 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,,"
+1.248 cm³
+"
+907,"
+€ 8.450,-
+",46.228 km,12/2018,55 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Benzin,,no_data
+908,"
+€ 8.650,-
+",23.000 km,01/2018,55 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+909,"
+€ 8.890,-
+",64.740 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,,"
+1.248 cm³
+"
+910,"
+€ 8.900,-
+",62.244 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+911,"
+€ 8.900,-
+",62.431 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+912,"
+€ 8.900,-
+",67.517 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+913,"
+€ 8.950,-
+",49.500 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95 / Super E10 95 / Super Plus 98 / Super Plus E10 98,"
+24 Monate
+","
+1.248 cm³
+"
+914,"
+€ 8.980,-
+",51.097 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+915,"
+€ 8.980,-
+",51.349 km,12/2018,55 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,,"
+1.248 cm³
+"
+916,"
+€ 8.990,-
+",53.498 km,12/2018,55 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,,no_data
+917,"
+€ 9.200,-
+",29.140 km,10/2018,55 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+918,"
+€ 9.260,-
+",54.738 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Limousine,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,,"
+1.248 cm³
+"
+919,"
+€ 9.260,-
+",51.193 km,12/2018,55 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,,"
+1.248 cm³
+"
+920,"
+€ 9.290,-
+",29.500 km,04/2018,55 kW,Hyundai,i20,2018,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+921,"
+€ 9.290,-
+",29.500 km,04/2018,55 kW,Hyundai,i20,2018,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+922,"
+€ 9.300,-
+",56.823 km,12/2018,55 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+923,"
+€ 9.350,-
+",18.700 km,09/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+924,"
+€ 9.380,-
+",51.212 km,12/2018,55 kW,Hyundai,i20,2018,Braun,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+925,"
+€ 9.380,-
+",51.212 km,12/2018,55 kW,Hyundai,i20,2018,Braun,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+926,"
+€ 9.387,-
+",57.579 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,,"
+4
+"
+927,"
+€ 9.389,-
+",58.694 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,,"
+4
+"
+928,"
+€ 9.390,-
+",62.477 km,12/2018,55 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,,no_data
+929,"
+€ 9.450,-
+",41.000 km,12/2018,55 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,no_data_about_accident,no_data
+930,"
+€ 9.480,-
+",49.785 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+931,"
+€ 9.480,-
+",49.785 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+932,"
+€ 9.485,-
+",51.901 km,12/2018,55 kW,Hyundai,i20,2018,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+933,"
+€ 9.490,-
+",34.000 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Kleinwagen,Super 95,,no_data
+934,"
+€ 9.500,-
+",56.492 km,11/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,"
+11/2019
+","
+1.248 cm³
+"
+935,"
+€ 9.600,-
+",16.050 km,04/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+936,"
+€ 9.670,-
+",9.000 km,12/2018,55 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+937,"
+€ 9.690,-
+",36.789 km,11/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+938,"
+€ 9.690,-
+",26.400 km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95 / Normal/Benzin 91,"
+12 Monate
+","
+1.248 cm³
+"
+939,"
+€ 9.750,-
+",45.000 km,08/2018,62 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+940,"
+€ 9.750,-
+",40.000 km,09/2018,62 kW,Hyundai,i20,2018,Grau,Kleinwagen,Benzin,,no_data
+941,"
+€ 9.750,-
+",24.000 km,04/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+942,"
+€ 9.770,-
+",35.076 km,01/2018,55 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,,no_data
+943,"
+€ 9.800,-
+",6.932 km,02/2018,55 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+944,"
+€ 9.840,-
+",62.290 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Kleinwagen,Super 95,no_data_about_accident,no_data
+945,"
+€ 9.880,-
+",35.118 km,01/2018,55 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,,no_data
+946,"
+€ 9.880,-
+",13.532 km,07/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,,no_data
+947,"
+€ 9.890,-
+",8.100 km,11/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+948,"
+€ 9.900,-
+",41.950 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+1.248 cm³
+"
+949,"
+€ 9.900,-
+",119.389 km,01/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Flüssiggas/Autogas (LPG),,no_data
+950,"
+€ 9.900,-
+",37.000 km,05/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+951,"
+€ 9.950,-
+",51.033 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+952,"
+€ 9.950,-
+",50.471 km,12/2018,55 kW,Hyundai,i20,2018,Braun,Kleinwagen,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+953,"
+€ 9.979,-
+",41.400 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+954,"
+€ 9.980,-
+",12.890 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+955,,4.700 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+956,"
+€ 9.990,-
+",53.907 km,12/2018,55 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+957,"
+€ 9.990,-
+",18.328 km,11/2018,62 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+958,"
+€ 9.990,-
+",49.100 km,12/2018,55 kW,Hyundai,i20,2018,Silber,Kleinwagen,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+959,"
+€ 9.990,-
+",34.800 km,08/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95 / Super Plus 98,no_data_about_accident,"
+1.248 cm³
+"
+960,"
+€ 9.990,-
+",62.995 km,04/2018,66 kW,Hyundai,i20,2018,Braun,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+961,"
+€ 9.990,-
+",14.600 km,04/2018,55 kW,Hyundai,i20,2018,Blau,Kleinwagen,Benzin,,no_data
+962,"
+€ 9.999,-
+",61.071 km,12/2018,55 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,,no_data
+963,"
+€ 10.200,-
+",7.200 km,10/2018,62 kW,Hyundai,i20,2018,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+964,"
+€ 10.290,-
+",1.550 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+965,"
+€ 10.350,-
+",10.000 km,08/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95 / Super E10 95,"
+36 Monate
+","
+1.248 cm³
+"
+966,"
+€ 10.460,-
+",16.826 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+967,"
+€ 10.490,-
+",27.300 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+968,"
+€ 10.490,-
+",16.165 km,12/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Super 95 / Normal/Benzin 91,,no_data
+969,"
+€ 10.490,-
+",30.000 km,06/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+970,"
+€ 10.490,-
+",6.070 km,12/2018,55 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+971,"
+€ 10.490,-
+",41.088 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,,no_data
+972,"
+€ 10.500,-
+",17.000 km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+973,"
+€ 10.590,-
+",36.990 km,08/2018,66 kW,Hyundai,i20,2018,Grau,Kleinwagen,Diesel (Rußpartikelfilter),no_data_about_accident,no_data
+974,"
+€ 10.600,-
+",9.800 km,01/2018,61 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Benzin,no_data_about_accident,no_data
+975,"
+€ 10.650,-
+",15.000 km,02/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,no_data
+976,"
+€ 10.700,-
+",5.300 km,10/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+977,"
+€ 10.750,-
+",19.950 km,07/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+978,"
+€ 10.780,-
+",21.100 km,05/2018,55 kW,Hyundai,i20,2018,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+979,"
+€ 10.799,-
+",27.399 km,08/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,,no_data
+980,"
+€ 10.800,-
+",15.800 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+981,"
+€ 10.800,-
+",25.000 km,12/2018,74 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95 (Rußpartikelfilter),,no_data
+982,"
+€ 10.846,-
+",48.914 km,08/2018,66 kW,Hyundai,i20,2018,Grau,Limousine,Diesel (Rußpartikelfilter),no_data_about_accident,"
+1.396 cm³
+"
+983,"
+€ 10.900,-
+",32.230 km,05/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+984,"
+€ 10.900,-
+",4.500 km,01/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Benzin,,"
+1.248 cm³
+"
+985,"
+€ 10.950,-
+",12.642 km,06/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Super E10 95,no_data_about_accident,"
+Front
+"
+986,"
+€ 10.950,-
+",25.634 km,08/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+987,,14.760 km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.249 cm³
+"
+988,"
+€ 10.980,-
+",13.370 km,08/2018,63 kW,Hyundai,i20,2018,Silber,Limousine,Super 95,,no_data
+989,"
+€ 10.980,-
+",19.050 km,12/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+990,"
+€ 10.990,-
+",13.000 km,08/2018,62 kW,Hyundai,i20,2018,Silber,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+991,"
+€ 10.990,-
+",44.900 km,05/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+992,"
+€ 10.990,-
+",40.000 km,08/2018,66 kW,Hyundai,i20,2018,Braun,Limousine,Diesel (Rußpartikelfilter),,no_data
+993,"
+€ 10.999,-
+",14.857 km,12/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Super 95,,no_data
+994,"
+€ 10.999,-
+",30.815 km,07/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,,no_data
+995,"
+€ 10.999,-
+",5.243 km,10/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.298 cm³
+"
+996,"
+€ 11.000,-
+",30.000 km,10/2018,62 kW,Hyundai,i20,2018,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+997,"
+€ 11.280,-
+",10 km,10/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,no_data_about_accident,"
+Front
+"
+998,"
+€ 11.300,-
+",7 km,12/2018,55 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+999,"
+€ 11.385,-
+",11.850 km,01/2018,62 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,no_data_about_accident,no_data
+1000,"
+€ 11.390,-
+",10 km,09/2018,55 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1001,"
+€ 11.450,-
+",23.900 km,06/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1002,"
+€ 11.480,-
+",44.000 km,08/2018,66 kW,Hyundai,i20,2018,Schwarz,Limousine,Diesel (Rußpartikelfilter),,no_data
+1003,"
+€ 11.480,-
+",15.110 km,06/2018,62 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Super E10 95,,no_data
+1004,"
+€ 11.480,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Silber,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.055 kg
+"
+1005,"
+€ 11.490,-
+",12.205 km,06/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,"
+12 Monate
+","
+4
+"
+1006,"
+€ 11.490,-
+",10 km,09/2018,55 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1007,"
+€ 11.490,-
+",23.301 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,,"
+1.248 cm³
+"
+1008,"
+€ 11.490,-
+",45.000 km,04/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+1009,"
+€ 11.520,-
+",- km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1010,"
+€ 11.520,-
+",- km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1011,"
+€ 11.520,-
+",- km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1012,"
+€ 11.520,-
+",- km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1013,"
+€ 11.520,-
+",- km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1014,"
+€ 11.590,-
+",24.250 km,04/2018,62 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+1015,"
+€ 11.790,-
+",14.900 km,04/2018,88 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1016,"
+€ 11.800,-
+",10.000 km,03/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,,"
+998 cm³
+"
+1017,"
+€ 11.880,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+1018,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1019,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1020,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1021,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1022,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1023,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1024,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1025,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1026,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1027,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1028,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1029,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1030,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1031,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1032,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1033,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1034,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1035,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1036,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1037,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1038,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1039,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1040,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1041,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1042,"
+€ 11.890,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1043,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1044,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1045,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1046,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1047,,5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1048,,5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1049,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1050,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1051,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1052,,5 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1053,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1054,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1055,,5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1056,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1057,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1058,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1059,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1060,,5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1061,,5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1062,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1063,"
+€ 11.890,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1064,"
+€ 11.900,-
+",25.000 km,07/2018,74 kW,Hyundai,i20,2018,Silber,Limousine,Benzin,,"
+998 cm³
+"
+1065,"
+€ 11.900,-
+",19.150 km,07/2018,74 kW,Hyundai,i20,2018,Grau,Limousine,Benzin,,"
+998 cm³
+"
+1066,"
+€ 11.900,-
+",24.220 km,06/2018,88 kW,Hyundai,i20,2018,Braun,Coupé,Benzin,,"
+998 cm³
+"
+1067,"
+€ 11.900,-
+",35.000 km,04/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,,"
+1.248 cm³
+"
+1068,"
+€ 11.980,-
+",17.983 km,12/2018,- kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,"
+Front
+"
+1069,"
+€ 11.980,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1070,"
+€ 11.980,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1071,"
+€ 11.980,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1072,"
+€ 11.980,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1073,"
+€ 11.980,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1074,"
+€ 11.980,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1075,"
+€ 11.980,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1076,"
+€ 11.980,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1077,"
+€ 11.980,-
+",5.000 km,12/2018,55 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1078,"
+€ 11.985,-
+",23.170 km,08/2018,62 kW,Hyundai,i20,2018,Silber,Kleinwagen,Benzin,no_data_about_accident,no_data
+1079,"
+€ 11.990,-
+",32.954 km,06/2018,74 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,,no_data
+1080,"
+€ 11.990,-
+",28.935 km,11/2018,74 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+1081,"
+€ 11.990,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1082,"
+€ 11.990,-
+",9.000 km,10/2018,62 kW,Hyundai,i20,2018,Blau,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1083,"
+€ 11.990,-
+",14.962 km,06/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,no_data_about_accident,"
+4
+"
+1084,"
+€ 11.990,-
+",17.100 km,03/2018,55 kW,Hyundai,i20,2018,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1085,"
+€ 11.990,-
+",21.000 km,03/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95 / Super E10 95 / Super Plus 98 / Super Plus E10 98,"
+12 Monate
+","
+1.248 cm³
+"
+1086,"
+€ 11.990,-
+",1.608 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Benzin,,no_data
+1087,"
+€ 11.990,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.055 kg
+"
+1088,"
+€ 11.990,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.055 kg
+"
+1089,"
+€ 11.990,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Silber,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.055 kg
+"
+1090,"
+€ 11.990,-
+",10 km,10/2018,62 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,,no_data
+1091,"
+€ 11.995,-
+",59.250 km,08/2018,62 kW,Hyundai,i20,2018,Grau,Kleinwagen,Benzin,,no_data
+1092,"
+€ 11.999,-
+",5 km,12/2018,62 kW,Hyundai,i20,2018,Weiß,Kleinwagen,Super 95,,no_data
+1093,"
+€ 12.000,-
+",5.233 km,09/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+1094,"
+€ 12.034,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1095,"
+€ 12.036,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1096,"
+€ 12.100,-
+",24.000 km,05/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+1097,"
+€ 12.266,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,,no_data
+1098,"
+€ 12.266,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1099,"
+€ 12.280,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1100,"
+€ 12.280,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1101,"
+€ 12.290,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+1.055 kg
+"
+1102,"
+€ 12.300,-
+",19.500 km,11/2018,74 kW,Hyundai,i20,2018,Blau,SUV/Geländewagen/Pickup,Super 95,,"
+1.368 cm³
+"
+1103,"
+€ 12.440,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1104,"
+€ 12.480,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+1105,"
+€ 12.499,-
+",35.127 km,08/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1106,"
+€ 12.500,-
+",35.000 km,03/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+1107,"
+€ 12.530,-
+",10 km,12/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,,no_data
+1108,"
+€ 12.590,-
+",10.500 km,04/2018,74 kW,Hyundai,i20,2018,Silber,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1109,"
+€ 12.590,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Braun,Kleinwagen,Super 95,,no_data
+1110,"
+€ 12.730,-
+",5 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1111,"
+€ 12.800,-
+",20.000 km,06/2018,74 kW,Hyundai,i20,2018,Silber,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+1112,"
+€ 12.850,-
+",29.158 km,07/2018,74 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95 (Rußpartikelfilter),,no_data
+1113,"
+€ 12.890,-
+",50.500 km,02/2018,88 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Benzin,,no_data
+1114,"
+€ 12.890,-
+",6.050 km,05/2018,88 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,,no_data
+1115,"
+€ 12.890,-
+",20.000 km,07/2018,74 kW,Hyundai,i20,2018,Rot,Kleinwagen,Benzin,,"
+998 cm³
+"
+1116,"
+€ 12.899,-
+",25.627 km,07/2018,62 kW,Hyundai,i20,2018,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1117,"
+€ 12.900,-
+",35.000 km,04/2018,62 kW,Hyundai,i20,2018,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1118,"
+€ 12.950,-
+",9.563 km,11/2018,74 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1119,"
+€ 12.988,-
+",18.000 km,03/2018,74 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,,no_data
+1120,"
+€ 12.990,-
+",24.300 km,01/2018,74 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,"
+4
+"
+1121,"
+€ 12.990,-
+",50 km,05/2018,62 kW,Hyundai,i20,2018,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1122,"
+€ 12.990,-
+",100 km,12/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1123,"
+€ 12.999,-
+",16.911 km,05/2018,88 kW,Hyundai,i20,2018,Silber,Limousine,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,"
+07/2020
+","
+998 cm³
+"
+1124,"
+€ 13.000,-
+",26.000 km,06/2018,88 kW,Hyundai,i20,2018,Blau,Limousine,Benzin,,"
+998 cm³
+"
+1125,"
+€ 13.290,-
+",21.700 km,11/2018,74 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,,no_data
+1126,"
+€ 13.290,-
+",100 km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1127,"
+€ 13.350,-
+",25.000 km,07/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Super E10 95 / Super 95,,"
+998 cm³
+"
+1128,"
+€ 13.400,-
+",33.000 km,04/2018,88 kW,Hyundai,i20,2018,Rot,Coupé,Benzin,no_data_about_accident,"
+998 cm³
+"
+1129,"
+€ 13.480,-
+",7.645 km,03/2018,62 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,,no_data
+1130,"
+€ 13.500,-
+",24.000 km,06/2018,88 kW,Hyundai,i20,2018,Silber,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1131,"
+€ 13.740,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+1132,"
+€ 13.741,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1133,"
+€ 13.741,-
+",10 km,11/2018,62 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1134,"
+€ 13.750,-
+",10.000 km,12/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95 (Rußpartikelfilter),,"
+998 cm³
+"
+1135,"
+€ 13.973,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95 / Super E10 95,no_data_about_accident,no_data
+1136,"
+€ 13.973,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+1137,"
+€ 13.990,-
+",19.500 km,11/2018,74 kW,Hyundai,i20,2018,Blau,Kleinwagen,Super 95,,no_data
+1138,"
+€ 14.147,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+1139,"
+€ 14.321,-
+",100 km,11/2018,62 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,no_data_about_accident,"
+Front
+"
+1140,"
+€ 14.480,-
+",20 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+1141,"
+€ 14.480,-
+",20 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1142,"
+€ 14.750,-
+",20 km,11/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,,no_data
+1143,"
+€ 14.750,-
+",20 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,,no_data
+1144,"
+€ 14.980,-
+",- km,10/2018,62 kW,Hyundai,i20,2018,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1145,"
+€ 14.990,-
+",14.434 km,12/2018,62 kW,Hyundai,i20,2018,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1146,"
+€ 14.990,-
+",16.527 km,08/2018,74 kW,Hyundai,i20,2018,Rot,Kleinwagen,Super 95,,no_data
+1147,"
+€ 14.990,-
+",10 km,11/2018,74 kW,Hyundai,i20,2018,Schwarz,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1148,"
+€ 14.990,-
+",13.000 km,11/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,"
+60 Monate
+","
+1.248 cm³
+"
+1149,"
+€ 15.000,-
+",21.500 km,10/2018,74 kW,Hyundai,i20,2018,Weiß,Limousine,Benzin,,"
+998 cm³
+"
+1150,"
+€ 15.490,-
+",100 km,10/2018,62 kW,Hyundai,i20,2018,Rot,Limousine,Super 95,"
+Ja
+","
+1.248 cm³
+"
+1151,"
+€ 9.991,-
+",23.500 km,05/2019,55 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1152,"
+€ 10.270,-
+",18.021 km,10/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1153,"
+€ 10.470,-
+",12.210 km,12/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1154,"
+€ 11.959,-
+",4.999 km,04/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95 / Super Plus 98 / Super E10 95,,"
+1.248 cm³
+"
+1155,"
+€ 12.450,-
+",14.636 km,07/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super E10 95 / Super 95 / Super Plus 98 / Super Plus E10 98,,"
+998 cm³
+"
+1156,"
+€ 12.491,-
+",16.465 km,09/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1157,"
+€ 13.990,-
+",6.650 km,09/2019,74 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1158,"
+€ 14.480,-
+",10 km,11/2019,73 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+1.368 cm³
+"
+1159,"
+€ 14.880,-
+",6.500 km,12/2019,73 kW,Hyundai,i20,2019,Rot,Limousine,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+998 cm³
+"
+1160,"
+€ 15.897,-
+",200 km,07/2019,73 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,"
+998 cm³
+"
+1161,"
+€ 9.189,-
+",42.440 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1162,"
+€ 9.189,-
+",41.930 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1163,"
+€ 9.189,-
+",42.805 km,07/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1164,"
+€ 9.190,-
+",43.460 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1165,"
+€ 9.190,-
+",35.930 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1166,"
+€ 9.389,-
+",36.730 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1167,"
+€ 9.390,-
+",37.900 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1168,"
+€ 9.700,-
+",3.900 km,08/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super E10 95,"
+2 Monate
+","
+1.248 cm³
+"
+1169,"
+€ 11.490,-
+",14.545 km,05/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1170,"
+€ 11.498,-
+",7.800 km,01/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1171,"
+€ 12.888,-
+",18.750 km,03/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Benzin (Rußpartikelfilter),,no_data
+1172,"
+€ 13.999,-
+",15.601 km,02/2019,74 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 (Rußpartikelfilter),,"
+998 cm³
+"
+1173,"
+€ 16.470,-
+",10.900 km,09/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,"
+Front
+"
+1174,"
+€ 17.980,-
+",13.859 km,07/2019,88 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,"
+Front
+"
+1175,"
+€ 17.990,-
+",10 km,11/2019,88 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,"
+3
+"
+1176,"
+€ 8.950,-
+",13.400 km,01/2019,55 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1177,"
+€ 8.977,-
+",44.270 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1178,"
+€ 9.190,-
+",23.000 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91 / Super E10 95,"
+09/2020
+","
+1.248 cm³
+"
+1179,"
+€ 9.450,-
+",37.850 km,04/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1180,"
+€ 9.550,-
+",15.700 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1181,"
+€ 9.640,-
+",46.400 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1182,"
+€ 9.950,-
+",25.000 km,04/2019,55 kW,Hyundai,i20,2019,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1183,"
+€ 9.985,-
+",40.900 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1184,"
+€ 9.990,-
+",12.400 km,08/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Benzin,,no_data
+1185,"
+€ 11.290,-
+",14.600 km,03/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1186,"
+€ 11.490,-
+",8.000 km,07/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Benzin (Rußpartikelfilter),,no_data
+1187,"
+€ 12.888,-
+",18.750 km,03/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Benzin,,no_data
+1188,"
+€ 12.900,-
+",8.935 km,04/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1189,"
+€ 12.950,-
+",19.000 km,10/2019,74 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin (Rußpartikelfilter),,no_data
+1190,"
+€ 13.900,-
+",750 km,07/2019,74 kW,Hyundai,i20,2019,Braun,Limousine,Super 95,,no_data
+1191,"
+€ 7.950,-
+",51.429 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1192,"
+€ 8.299,-
+",46.563 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Normal/Benzin 91 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1193,"
+€ 8.500,-
+",44.000 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Normal/Benzin 91 / Super 95 / Super Plus 98 / Super E10 95 / Normal/Benzin E10 91,,"
+1.248 cm³
+"
+1194,"
+€ 8.750,-
+",47.000 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+1195,"
+€ 8.790,-
+",40.167 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1196,"
+€ 8.790,-
+",44.842 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1197,"
+€ 8.799,-
+",38.179 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,no_data
+1198,"
+€ 8.815,-
+",33.309 km,03/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1199,"
+€ 8.849,-
+",39.782 km,03/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1200,"
+€ 8.890,-
+",48.193 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1201,"
+€ 8.890,-
+",50.000 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1202,"
+€ 8.915,-
+",28.147 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1203,"
+€ 8.950,-
+",48.000 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+1204,"
+€ 8.965,-
+",28.624 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1205,"
+€ 8.980,-
+",51.000 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1206,"
+€ 8.990,-
+",60.000 km,11/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Benzin,,no_data
+1207,"
+€ 8.990,-
+",42.335 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1208,"
+€ 8.990,-
+",48.000 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Benzin,"
+09/2020
+","
+1.248 cm³
+"
+1209,"
+€ 8.990,-
+",39.211 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1210,"
+€ 8.990,-
+",50.950 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1211,"
+€ 8.990,-
+",46.000 km,05/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,no_data
+1212,,38.700 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1213,,36.300 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1214,,36.500 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,no_data
+1215,"
+€ 8.990,-
+",48.300 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,no_data
+1216,"
+€ 8.990,-
+",47.030 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1217,"
+€ 8.990,-
+",44.549 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+1218,"
+€ 8.995,-
+",54.000 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1219,"
+€ 8.999,-
+",25.030 km,07/2019,54 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1220,,17.485 km,06/2019,54 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1221,"
+€ 9.150,-
+",46.000 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+1222,"
+€ 9.285,-
+",39.550 km,03/2019,55 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1223,"
+€ 9.285,-
+",38.220 km,04/2019,55 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1224,"
+€ 9.285,-
+",37.940 km,06/2019,55 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1225,"
+€ 9.285,-
+",38.120 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1226,"
+€ 9.285,-
+",42.385 km,06/2019,55 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1227,"
+€ 9.285,-
+",39.045 km,07/2019,55 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1228,"
+€ 9.285,-
+",38.645 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1229,"
+€ 9.285,-
+",39.885 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1230,"
+€ 9.289,-
+",42.000 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1231,"
+€ 9.290,-
+",53.800 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1232,"
+€ 9.290,-
+",35.000 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1233,"
+€ 9.315,-
+",25.945 km,07/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1234,"
+€ 9.340,-
+",52.120 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1235,"
+€ 9.390,-
+",40.000 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+1236,"
+€ 9.399,-
+",28.562 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,no_data
+1237,"
+€ 9.450,-
+",30.800 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1238,"
+€ 9.450,-
+",32.000 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Super E10 95 / Super Plus E10 98 / Super Plus 98,"
+12 Monate
+","
+1.248 cm³
+"
+1239,"
+€ 9.450,-
+",26.776 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1240,"
+€ 9.475,-
+",41.980 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,no_data
+1241,"
+€ 9.489,-
+",39.920 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1242,"
+€ 9.489,-
+",35.210 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1243,"
+€ 9.490,-
+",38.900 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1244,"
+€ 9.490,-
+",45.700 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1245,"
+€ 9.490,-
+",41.800 km,05/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1246,"
+€ 9.490,-
+",27.000 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+1247,"
+€ 9.490,-
+",37.827 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,no_data
+1248,"
+€ 9.499,-
+",37.900 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1249,"
+€ 9.500,-
+",48.000 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+1250,"
+€ 9.500,-
+",48.325 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin,no_data_about_accident,no_data
+1251,"
+€ 9.575,-
+",34.619 km,03/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin,,no_data
+1252,"
+€ 9.590,-
+",38.200 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1253,"
+€ 9.590,-
+",49.042 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1254,"
+€ 9.600,-
+",29.000 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1255,"
+€ 9.600,-
+",27.700 km,03/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1256,"
+€ 9.615,-
+",22.541 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1257,"
+€ 9.650,-
+",39.500 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+1258,"
+€ 9.650,-
+",22.500 km,02/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+4
+"
+1259,"
+€ 9.690,-
+",29.720 km,03/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Benzin,,no_data
+1260,"
+€ 9.690,-
+",45.250 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,"
+1.248 cm³
+"
+1261,"
+€ 9.690,-
+",26.600 km,04/2019,55 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,no_data_about_accident,"
+Front
+"
+1262,"
+€ 9.740,-
+",27.800 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+1263,"
+€ 9.777,-
+",44.000 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,no_data
+1264,"
+€ 9.790,-
+",40.000 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1265,"
+€ 9.790,-
+",33.200 km,04/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1266,"
+€ 9.790,-
+",36.100 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1267,"
+€ 9.825,-
+",29.550 km,07/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.200 cm³
+"
+1268,"
+€ 9.874,-
+",25.000 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1269,,24.500 km,08/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,no_data
+1270,"
+€ 9.890,-
+",26.250 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1271,"
+€ 9.890,-
+",26.250 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1272,"
+€ 9.900,-
+",25.000 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1273,"
+€ 9.900,-
+",24.500 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1274,"
+€ 9.950,-
+",36.150 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+1275,"
+€ 9.970,-
+",8.970 km,10/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1276,"
+€ 9.979,-
+",34.476 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1277,"
+€ 9.979,-
+",42.242 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1278,"
+€ 9.979,-
+",38.682 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1279,"
+€ 9.979,-
+",47.139 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1280,"
+€ 9.979,-
+",38.682 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1281,"
+€ 9.990,-
+",34.000 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1282,"
+€ 9.990,-
+",23.250 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1283,"
+€ 9.990,-
+",10.000 km,01/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1284,"
+€ 9.990,-
+",39.400 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1285,"
+€ 9.990,-
+",48.665 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,no_data
+1286,"
+€ 9.990,-
+",39.463 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+1287,"
+€ 9.990,-
+",10.000 km,05/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1288,"
+€ 9.990,-
+",36.256 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1289,"
+€ 9.990,-
+",19.325 km,07/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1290,"
+€ 9.990,-
+",29.900 km,03/2019,55 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1291,"
+€ 9.995,-
+",28.000 km,03/2019,55 kW,Hyundai,i20,2019,Braun,Limousine,Super 95 / Super E10 95 / Super Plus 98 / Super Plus E10 98,"
+02/2020
+","
+1.248 cm³
+"
+1292,"
+€ 9.999,-
+",5.250 km,03/2019,55 kW,Hyundai,i20,2019,Braun,Limousine,Benzin,,"
+1.248 cm³
+"
+1293,"
+€ 10.000,-
+",25.220 km,05/2019,55 kW,Hyundai,i20,2019,Silber,Limousine,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1294,"
+€ 10.290,-
+",23.200 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1295,"
+€ 10.350,-
+",40.500 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1296,"
+€ 10.370,-
+",17.825 km,10/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+1297,"
+€ 10.390,-
+",9.700 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1298,"
+€ 10.400,-
+",12.690 km,12/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Benzin,,no_data
+1299,"
+€ 10.450,-
+",41.000 km,06/2019,55 kW,Hyundai,i20,2019,Grau,Limousine,Benzin,"
+10/2020
+","
+1.248 cm³
+"
+1300,"
+€ 10.470,-
+",10.891 km,12/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1301,"
+€ 10.610,-
+",23.045 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1302,"
+€ 10.670,-
+",20.400 km,03/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1303,"
+€ 10.690,-
+",4.500 km,08/2019,55 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,,"
+4
+"
+1304,"
+€ 10.690,-
+",27.982 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1305,,50 km,10/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+1306,"
+€ 10.690,-
+",27.100 km,04/2019,55 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95,,no_data
+1307,"
+€ 10.720,-
+",25.419 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1308,"
+€ 10.750,-
+",35.314 km,03/2019,55 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1309,,10 km,07/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1310,"
+€ 10.890,-
+",26.000 km,02/2019,55 kW,Hyundai,i20,2019,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1311,"
+€ 10.890,-
+",22.651 km,02/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1312,"
+€ 10.896,-
+",13.582 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1313,"
+€ 10.900,-
+",7.734 km,02/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1314,"
+€ 10.900,-
+",13.181 km,02/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1315,"
+€ 10.900,-
+",16.043 km,02/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1316,"
+€ 10.930,-
+",10.102 km,06/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+1317,"
+€ 10.977,-
+",10.822 km,03/2019,62 kW,Hyundai,i20,2019,Kleinwagen,Schaltgetriebe,,,"
+1.248 cm³
+"
+1318,"
+€ 10.990,-
+",9.300 km,09/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1319,"
+€ 10.990,-
+",10.119 km,06/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1320,"
+€ 10.990,-
+",50 km,09/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1321,"
+€ 10.990,-
+",24.330 km,03/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Benzin,,no_data
+1322,"
+€ 10.990,-
+",8.846 km,08/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+1323,"
+€ 10.990,-
+",2.393 km,10/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Super Plus 98,"
+Ja
+","
+1.248 cm³
+"
+1324,,50 km,09/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1325,,10 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1326,,50 km,10/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,"
+Ja
+","
+1.248 cm³
+"
+1327,"
+€ 10.990,-
+",7.287 km,09/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1328,"
+€ 10.999,-
+",47.000 km,05/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Normal/Benzin 91 / Super E10 95 / Super Plus E10 98 / Super 95 / Super Plus 98 / Normal/Benzin E10 91,"
+12 Monate
+","
+1.248 cm³
+"
+1329,"
+€ 10.999,-
+",150 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.233 kg
+"
+1330,"
+€ 11.000,-
+",10.261 km,03/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+1331,"
+€ 11.200,-
+",6.547 km,02/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+1332,"
+€ 11.200,-
+",10 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1333,"
+€ 11.200,-
+",7.000 km,04/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1334,"
+€ 11.200,-
+",18.000 km,03/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1335,"
+€ 11.250,-
+",50 km,08/2019,61 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,"
+1.250 cm³
+"
+1336,"
+€ 11.270,-
+",7.918 km,12/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super E10 95 / Super 95 / Super Plus 98 / Super Plus E10 98,,"
+1.248 cm³
+"
+1337,,50 km,09/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1338,"
+€ 11.340,-
+",6.512 km,02/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1339,"
+€ 11.390,-
+",15 km,10/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1340,"
+€ 11.390,-
+",2.499 km,10/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1341,"
+€ 11.390,-
+",- km,08/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+1342,"
+€ 11.430,-
+",9.580 km,06/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1343,"
+€ 11.480,-
+",15.780 km,01/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,,"
+1.248 cm³
+"
+1344,"
+€ 11.490,-
+",14.541 km,05/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,no_data_about_accident,no_data
+1345,"
+€ 11.490,-
+",12.522 km,06/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1346,"
+€ 11.490,-
+",12.065 km,05/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1347,"
+€ 11.490,-
+",3.950 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+1348,"
+€ 11.490,-
+",15.336 km,04/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1349,"
+€ 11.490,-
+",20.642 km,08/2019,55 kW,Hyundai,i20,2019,Schwarz,Sonstige,Normal/Benzin 91,no_data_about_accident,no_data
+1350,"
+€ 11.490,-
+",15.204 km,05/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1351,"
+€ 11.490,-
+",14.378 km,04/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1352,"
+€ 11.490,-
+",12.210 km,05/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1353,,10 km,12/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1354,"
+€ 11.490,-
+",6.660 km,12/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+1.248 cm³
+"
+1355,"
+€ 11.500,-
+",19.245 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1356,"
+€ 11.500,-
+",14.271 km,03/2019,62 kW,Hyundai,i20,2019,Braun,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1357,"
+€ 11.500,-
+",11.927 km,02/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1358,"
+€ 11.500,-
+",12.474 km,04/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+1359,"
+€ 11.510,-
+",22.000 km,06/2019,74 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 (Rußpartikelfilter),,"
+1.239 kg
+"
+1360,"
+€ 11.650,-
+",26 km,09/2019,55 kW,Hyundai,i20,2019,Blau,Kleinwagen,Normal/Benzin E10 91,,"
+1.249 cm³
+"
+1361,"
+€ 11.680,-
+",15 km,11/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1362,"
+€ 11.690,-
+",10 km,12/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,,no_data
+1363,"
+€ 11.690,-
+",4.187 km,12/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+1.248 cm³
+"
+1364,"
+€ 11.690,-
+",15 km,11/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1365,"
+€ 11.700,-
+",15.065 km,03/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+1366,"
+€ 11.700,-
+",11.508 km,03/2019,62 kW,Hyundai,i20,2019,Braun,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1367,"
+€ 11.780,-
+",8.969 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1368,"
+€ 11.790,-
+",17.516 km,03/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1369,"
+€ 11.790,-
+",19.400 km,02/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Benzin,,"
+1.248 cm³
+"
+1370,"
+€ 11.790,-
+",- km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95 / Super Plus 98,,"
+1.248 cm³
+"
+1371,"
+€ 11.800,-
+",279 km,05/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1372,"
+€ 11.850,-
+",17.300 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Super E10 95,,"
+1.248 cm³
+"
+1373,"
+€ 11.885,-
+",10 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,"
+60 Monate
+","
+1.248 cm³
+"
+1374,"
+€ 11.890,-
+",50 km,12/2019,55 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,,"
+1.248 cm³
+"
+1375,"
+€ 11.890,-
+",3.500 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1376,"
+€ 11.890,-
+",3.500 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1377,"
+€ 11.890,-
+",10 km,09/2019,55 kW,Hyundai,i20,2019,Limousine,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1378,"
+€ 11.900,-
+",28.502 km,08/2019,55 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1379,"
+€ 11.950,-
+",200 km,11/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1380,"
+€ 11.950,-
+",16.000 km,02/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Benzin,,"
+1.248 cm³
+"
+1381,"
+€ 11.970,-
+",23.977 km,03/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1382,"
+€ 11.980,-
+",16.500 km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1383,"
+€ 11.989,-
+",7.874 km,04/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1384,"
+€ 11.989,-
+",12.881 km,04/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1385,"
+€ 11.990,-
+",100 km,12/2019,74 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+1386,"
+€ 11.990,-
+",10.504 km,11/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1387,"
+€ 11.990,-
+",8.533 km,06/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1388,"
+€ 11.990,-
+",9.999 km,06/2019,74 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1389,"
+€ 11.990,-
+",12.800 km,10/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1390,"
+€ 11.990,-
+",13.000 km,10/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1391,"
+€ 11.990,-
+",7.500 km,10/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1392,"
+€ 11.990,-
+",4.500 km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1393,"
+€ 11.990,-
+",7 km,11/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 / Super Plus E10 98 / Super Plus 98 / Super E10 95,"
+11/2019
+","
+1.248 cm³
+"
+1394,"
+€ 11.999,-
+",27.000 km,07/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Normal/Benzin 91 / Super Plus E10 98 / Super E10 95 / Super 95 / Super Plus 98,"
+12 Monate
+","
+1.248 cm³
+"
+1395,"
+€ 11.999,-
+",2.253 km,09/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Normal/Benzin E10 91 / Normal/Benzin 91 / Super 95 / Super Plus 98,"
+48 Monate
+","
+1.248 cm³
+"
+1396,,16 km,12/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,no_data_about_accident,no_data
+1397,"
+€ 11.999,-
+",25 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,"
+60 Monate
+","
+1.248 cm³
+"
+1398,"
+€ 11.999,-
+",25 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1399,"
+€ 12.150,-
+",8.500 km,06/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95 / Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1400,"
+€ 12.166,-
+",5 km,08/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1401,"
+€ 12.175,-
+",15 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 / Super Plus 98,no_data_about_accident,"
+1.248 cm³
+"
+1402,"
+€ 12.190,-
+",20 km,09/2019,55 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1403,"
+€ 12.255,-
+",15 km,10/2019,55 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,no_data_about_accident,no_data
+1404,"
+€ 12.290,-
+",19.200 km,12/2019,64 kW,Hyundai,i20,2019,Weiß,Limousine,Normal/Benzin 91,no_data_about_accident,"
+1.248 cm³
+"
+1405,"
+€ 12.290,-
+",10.740 km,12/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1406,"
+€ 12.330,-
+",17.745 km,06/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1407,"
+€ 12.360,-
+",14.010 km,10/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1408,"
+€ 12.377,-
+",15.230 km,04/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+998 cm³
+"
+1409,"
+€ 12.390,-
+",25.825 km,04/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 / Normal/Benzin 91,,no_data
+1410,"
+€ 12.390,-
+",9.546 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1411,"
+€ 12.390,-
+",13.600 km,07/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95 / Super E10 95,"
+48 Monate
+","
+998 cm³
+"
+1412,"
+€ 12.390,-
+",1.890 km,04/2019,74 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+998 cm³
+"
+1413,"
+€ 12.390,-
+",5.400 km,10/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1414,"
+€ 12.400,-
+",11.400 km,01/2019,62 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,"
+24 Monate
+","
+1.248 cm³
+"
+1415,"
+€ 12.400,-
+",19.100 km,11/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1416,"
+€ 12.400,-
+",50 km,06/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+1417,"
+€ 12.474,-
+",10 km,11/2019,55 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+1.248 cm³
+"
+1418,"
+€ 12.485,-
+",22.117 km,03/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1419,"
+€ 12.485,-
+",9.396 km,10/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1420,"
+€ 12.490,-
+",26.600 km,11/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95 / Super E10 95,"
+48 Monate
+","
+1.248 cm³
+"
+1421,"
+€ 12.490,-
+",15 km,05/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1422,"
+€ 12.490,-
+",20.204 km,11/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super E10 95,,"
+1.248 cm³
+"
+1423,"
+€ 12.490,-
+",12.406 km,06/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1424,"
+€ 12.490,-
+",10.896 km,06/2019,74 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1425,"
+€ 12.490,-
+",9.972 km,06/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1426,"
+€ 12.490,-
+",11.735 km,06/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95,,no_data
+1427,"
+€ 12.490,-
+",10.300 km,10/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1428,"
+€ 12.499,-
+",9.500 km,08/2019,55 kW,Hyundai,i20,2019,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1429,"
+€ 12.500,-
+",14.400 km,12/2019,62 kW,Hyundai,i20,2019,Grau,Limousine,Super 95 / Super Plus 98,,"
+1.248 cm³
+"
+1430,"
+€ 12.500,-
+",900 km,01/2019,74 kW,Hyundai,i20,2019,Blau,Limousine,Benzin,,"
+998 cm³
+"
+1431,"
+€ 12.500,-
+",15.960 km,07/2019,74 kW,Hyundai,i20,2019,Blau,Limousine,Super 95,,no_data
+1432,"
+€ 12.580,-
+",3.700 km,11/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Super E10 95,"
+60 Monate
+","
+1.248 cm³
+"
+1433,"
+€ 12.588,-
+",5 km,01/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1434,"
+€ 12.590,-
+",150 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1435,"
+€ 12.590,-
+",15 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1436,"
+€ 12.590,-
+",25 km,08/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1437,"
+€ 12.613,-
+",10 km,12/2019,55 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 (Rußpartikelfilter),no_data_about_accident,no_data
+1438,"
+€ 12.614,-
+",10 km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,,no_data
+1439,"
+€ 12.614,-
+",10 km,11/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,no_data
+1440,"
+€ 12.662,-
+",5.000 km,10/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,,no_data
+1441,"
+€ 12.663,-
+",10 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+1442,"
+€ 12.690,-
+",5.800 km,05/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+1443,"
+€ 12.690,-
+",1.000 km,11/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1444,"
+€ 12.690,-
+",5.000 km,04/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 / Super Plus 98,"
+Ja
+","
+1.248 cm³
+"
+1445,"
+€ 12.690,-
+",10 km,11/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1446,,9.900 km,03/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1447,"
+€ 12.700,-
+",7.100 km,06/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1448,"
+€ 12.790,-
+",29.100 km,10/2019,74 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin (Rußpartikelfilter),,no_data
+1449,"
+€ 12.790,-
+",300 km,12/2019,55 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1450,"
+€ 12.791,-
+",15 km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95 / Super Plus 98,,"
+1.248 cm³
+"
+1451,"
+€ 12.870,-
+",15.000 km,05/2019,74 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95 / Super Plus 98 / Super E10 95 / Super Plus E10 98,,"
+998 cm³
+"
+1452,"
+€ 12.880,-
+",13.700 km,12/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1453,"
+€ 12.888,-
+",450 km,12/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,no_data_about_accident,"
+1.233 kg
+"
+1454,"
+€ 12.898,-
+",13.000 km,04/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,"
+998 cm³
+"
+1455,"
+€ 12.900,-
+",12.144 km,04/2019,62 kW,Hyundai,i20,2019,Braun,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1456,"
+€ 12.900,-
+",6.000 km,07/2019,74 kW,Hyundai,i20,2019,Blau,Limousine,Super 95,no_data_about_accident,"
+1.368 cm³
+"
+1457,"
+€ 12.950,-
+",16.920 km,05/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Benzin (Rußpartikelfilter),,no_data
+1458,"
+€ 12.950,-
+",20 km,11/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,"
+24 Monate
+","
+1.055 kg
+"
+1459,"
+€ 12.980,-
+",15.200 km,08/2019,74 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,no_data
+1460,,10 km,09/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,no_data_about_accident,"
+998 cm³
+"
+1461,"
+€ 12.985,-
+",5.217 km,07/2019,74 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95 (Rußpartikelfilter),,"
+998 cm³
+"
+1462,"
+€ 12.990,-
+",6.570 km,08/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,no_data
+1463,"
+€ 12.990,-
+",15.611 km,11/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1464,"
+€ 12.990,-
+",10 km,10/2019,55 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super E10 95,"
+12 Monate
+","
+4
+"
+1465,"
+€ 12.990,-
+",9.358 km,06/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1466,"
+€ 12.990,-
+",8.472 km,06/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95,,no_data
+1467,"
+€ 12.990,-
+",17.312 km,04/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95,,no_data
+1468,"
+€ 12.990,-
+",13.100 km,08/2019,74 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 (Rußpartikelfilter),,"
+998 cm³
+"
+1469,"
+€ 12.990,-
+",29.900 km,04/2019,74 kW,Hyundai,i20,2019,Silber,Limousine,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+998 cm³
+"
+1470,"
+€ 12.990,-
+",1.600 km,02/2019,88 kW,Hyundai,i20,2019,Schwarz,Limousine,Benzin,no_data_about_accident,no_data
+1471,"
+€ 12.990,-
+",17.495 km,10/2019,74 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,no_data_about_accident,no_data
+1472,"
+€ 12.990,-
+",20 km,12/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1473,,7 km,01/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Benzin,,no_data
+1474,,7.696 km,05/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95 (Rußpartikelfilter),no_data_about_accident,"
+998 cm³
+"
+1475,"
+€ 12.990,-
+",25 km,09/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Super E10 95,,"
+1.248 cm³
+"
+1476,"
+€ 12.990,-
+",3.000 km,02/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Normal/Benzin E10 91,no_data_about_accident,"
+1.248 cm³
+"
+1477,"
+€ 12.990,-
+",25.000 km,03/2019,74 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 / Normal/Benzin 91,,"
+998 cm³
+"
+1478,"
+€ 12.999,-
+",23.400 km,03/2019,74 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 / Normal/Benzin 91,no_data_about_accident,"
+998 cm³
+"
+1479,"
+€ 12.999,-
+",17.160 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1480,"
+€ 12.999,-
+",19.637 km,11/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1481,"
+€ 12.999,-
+",8.789 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1482,"
+€ 12.999,-
+",16.823 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1483,"
+€ 12.999,-
+",3.000 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+1484,"
+€ 13.000,-
+",3.400 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1485,"
+€ 13.076,-
+",100 km,08/2019,62 kW,Hyundai,i20,2019,Kleinwagen,Schaltgetriebe,,no_data_about_accident,no_data
+1486,"
+€ 13.087,-
+",10 km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,,no_data
+1487,"
+€ 13.150,-
+",5 km,03/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin,,no_data
+1488,"
+€ 13.150,-
+",9 km,01/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Benzin,,no_data
+1489,"
+€ 13.200,-
+",11 km,08/2019,62 kW,Hyundai,i20,2019,Grau,Limousine,Normal/Benzin E10 91,no_data_about_accident,"
+1.198 cm³
+"
+1490,"
+€ 13.240,-
+",27.700 km,12/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1491,"
+€ 13.247,-
+",25 km,02/2019,62 kW,Hyundai,i20,2019,Braun,Kleinwagen,Benzin,,no_data
+1492,"
+€ 13.290,-
+",1.500 km,11/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 / Normal/Benzin 91,,no_data
+1493,"
+€ 13.330,-
+",5.000 km,12/2019,74 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+998 cm³
+"
+1494,"
+€ 13.340,-
+",10 km,01/2019,74 kW,Hyundai,i20,2019,Grau,Limousine,Super E10 95,no_data_about_accident,"
+Front
+"
+1495,"
+€ 13.380,-
+",50 km,07/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+1496,"
+€ 13.435,-
+",7.043 km,04/2019,74 kW,Hyundai,i20,2019,Kleinwagen,Schaltgetriebe,,,"
+998 cm³
+"
+1497,"
+€ 13.440,-
+",20.970 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1498,"
+€ 13.450,-
+",15.727 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1499,"
+€ 13.450,-
+",25.978 km,04/2019,74 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95 (Rußpartikelfilter),,"
+998 cm³
+"
+1500,"
+€ 13.450,-
+",12.130 km,12/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Super 95,,no_data
+1501,"
+€ 13.481,-
+",6.349 km,05/2019,74 kW,Hyundai,i20,2019,Kleinwagen,Automatik,,,"
+998 cm³
+"
+1502,"
+€ 13.485,-
+",15 km,10/2019,62 kW,Hyundai,i20,2019,Kleinwagen,Schaltgetriebe,,no_data_about_accident,"
+1.248 cm³
+"
+1503,"
+€ 13.490,-
+",16.800 km,12/2019,74 kW,Hyundai,i20,2019,Grau,Limousine,Super 95,,"
+998 cm³
+"
+1504,"
+€ 13.490,-
+",12.800 km,11/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1505,"
+€ 13.490,-
+",8.700 km,11/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Benzin (Rußpartikelfilter),no_data_about_accident,no_data
+1506,"
+€ 13.490,-
+",15 km,08/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1507,"
+€ 13.490,-
+",16.000 km,05/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95 (Rußpartikelfilter),,no_data
+1508,,15.000 km,06/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,,"
+1.248 cm³
+"
+1509,"
+€ 13.499,-
+",7.312 km,12/2019,74 kW,Hyundai,i20,2019,Rot,Limousine,Super 95,no_data_about_accident,"
+1.055 kg
+"
+1510,"
+€ 13.500,-
+",780 km,04/2019,75 kW,Hyundai,i20,2019,Blau,Limousine,,no_data_about_accident,no_data
+1511,"
+€ 13.500,-
+",2.305 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1512,"
+€ 13.500,-
+",5.200 km,12/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1513,"
+€ 13.500,-
+",5.600 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1514,"
+€ 13.500,-
+",8.474 km,01/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super E10 95 / Super 95,,"
+1.248 cm³
+"
+1515,"
+€ 13.570,-
+",16.319 km,07/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super E10 95 / Super 95 / Super Plus 98 / Super Plus E10 98,,"
+998 cm³
+"
+1516,"
+€ 13.588,-
+",10 km,01/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95,,no_data
+1517,"
+€ 13.589,-
+",3.106 km,04/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95 / Normal/Benzin 91,,"
+998 cm³
+"
+1518,"
+€ 13.590,-
+",15.885 km,04/2019,74 kW,Hyundai,i20,2019,Braun,Limousine,Super 95 (Rußpartikelfilter),,no_data
+1519,"
+€ 13.590,-
+",150 km,02/2019,62 kW,Hyundai,i20,2019,Schwarz,Limousine,Normal/Benzin E10 91 / Super 95 / Super E10 95,,"
+1.248 cm³
+"
+1520,"
+€ 13.637,-
+",10 km,08/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95 (Rußpartikelfilter),,no_data
+1521,"
+€ 13.660,-
+",4.509 km,03/2019,74 kW,Hyundai,i20,2019,Braun,Kleinwagen,Super 95 (Rußpartikelfilter),,no_data
+1522,"
+€ 13.670,-
+",18.524 km,07/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,"
+998 cm³
+"
+1523,"
+€ 13.690,-
+",14.800 km,10/2019,62 kW,Hyundai,i20,2019,Blau,Kleinwagen,Benzin,,no_data
+1524,"
+€ 13.690,-
+",3.000 km,12/2019,74 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,no_data
+1525,"
+€ 13.690,-
+",11.000 km,03/2019,55 kW,Hyundai,i20,2019,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1526,"
+€ 13.700,-
+",2.500 km,08/2019,74 kW,Hyundai,i20,2019,Grau,Limousine,Super E10 95 / Super 95,,"
+998 cm³
+"
+1527,"
+€ 13.750,-
+",10 km,08/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Super E10 95 / Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1528,"
+€ 13.765,-
+",5 km,08/2019,74 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1529,"
+€ 13.770,-
+",15.800 km,11/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1530,"
+€ 13.770,-
+",13.400 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Kleinwagen,Super 95,,"
+1.248 cm³
+"
+1531,"
+€ 13.780,-
+",875 km,08/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95,,"
+1.248 cm³
+"
+1532,"
+€ 13.780,-
+",3.500 km,11/2019,74 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 (Rußpartikelfilter),,"
+998 cm³
+"
+1533,"
+€ 13.790,-
+",14.810 km,10/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Super 95,no_data_about_accident,"
+1.248 cm³
+"
+1534,"
+€ 13.790,-
+",11.500 km,12/2019,62 kW,Hyundai,i20,2019,Silber,Limousine,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1535,"
+€ 13.790,-
+",9.700 km,12/2019,62 kW,Hyundai,i20,2019,Grau,Limousine,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1536,"
+€ 13.790,-
+",10.300 km,12/2019,62 kW,Hyundai,i20,2019,Weiß,Limousine,Super 95 (Rußpartikelfilter),,"
+1.248 cm³
+"
+1537,"
+€ 13.790,-
+",11.506 km,01/2019,74 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1538,"
+€ 13.790,-
+",16.650 km,07/2019,74 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 (Rußpartikelfilter),"
+60 Monate
+","
+998 cm³
+"
+1539,"
+€ 13.790,-
+",10.190 km,06/2019,74 kW,Hyundai,i20,2019,Schwarz,Limousine,Super E10 95,,"
+998 cm³
+"
+1540,"
+€ 13.800,-
+",177 km,06/2019,62 kW,Hyundai,i20,2019,Blau,Limousine,Super 95 / Super E10 95,,"
+1.248 cm³
+"
+1541,"
+€ 13.850,-
+",7.000 km,08/2019,74 kW,Hyundai,i20,2019,Grau,Kleinwagen,Benzin (Rußpartikelfilter),,no_data
+1542,"
+€ 13.880,-
+",9.598 km,03/2019,74 kW,Hyundai,i20,2019,Silber,Limousine,Super 95,,no_data
+1543,"
+€ 13.900,-
+",9.490 km,08/2019,62 kW,Hyundai,i20,2019,Silber,Kleinwagen,Super 95,,no_data
+1544,"
+€ 13.900,-
+",400 km,08/2019,62 kW,Hyundai,i20,2019,Grau,Limousine,Super E10 95,no_data_about_accident,"
+1.248 cm³
+"
+1545,"
+€ 13.949,-
+",15 km,08/2019,62 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,no_data
+1546,"
+€ 13.949,-
+",15 km,08/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Super 95,no_data_about_accident,no_data
+1547,"
+€ 13.950,-
+",18.476 km,10/2019,74 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95,no_data_about_accident,"
+998 cm³
+"
+1548,,15 km,12/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super 95 / Super Plus 98,no_data_about_accident,"
+1.248 cm³
+"
+1549,"
+€ 13.969,-
+",14.552 km,07/2019,62 kW,Hyundai,i20,2019,Schwarz,Kleinwagen,Benzin,,"
+1.248 cm³
+"
+1550,"
+€ 13.980,-
+",4.500 km,08/2019,74 kW,Hyundai,i20,2019,Grau,Kleinwagen,Super 95 (Rußpartikelfilter),,no_data
+1551,"
+€ 1.399,-
+",84.000 km,01/2009,57 kW,Hyundai,i20,2009,Bronze,Limousine,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1552,"
+€ 2.300,-
+",125.277 km,11/2009,57 kW,Hyundai,i20,2009,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1553,"
+€ 3.000,-
+",159.984 km,03/2009,57 kW,Hyundai,i20,2009,Beige,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1554,"
+€ 3.990,-
+",78.968 km,10/2009,74 kW,Hyundai,i20,2009,Grün,Limousine,Benzin,"
+Ja
+",no_data
+1555,"
+€ 3.100,-
+",72.000 km,09/2010,57 kW,Hyundai,i20,2010,Weiß,Limousine,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1556,"
+€ 5.000,-
+",128.053 km,10/2010,57 kW,Hyundai,i20,2010,Silber,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1557,"
+€ 6.250,-
+",110.000 km,07/2010,93 kW,Hyundai,i20,2010,Grau,Limousine,Benzin,"
+Ja
+","
+1.591 cm³
+"
+1558,"
+€ 2.290,-
+",109.004 km,05/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Benzin,no_data_about_accident,no_data
+1559,"
+€ 2.300,-
+",69.000 km,07/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Super 95,no_data_about_accident,no_data
+1560,"
+€ 2.300,-
+",122.000 km,07/2011,57 kW,Hyundai,i20,2011,Weiß,Limousine,Super 95 / Super E10 95 / Normal/Benzin 91 / Super Plus E10 98 / Super Plus 98 / Normal/Benzin E10 91,,"
+1.248 cm³
+"
+1561,"
+€ 3.600,-
+",115.500 km,08/2011,57 kW,Hyundai,i20,2011,Schwarz,Limousine,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1562,"
+€ 4.000,-
+",100.000 km,06/2012,63 kW,Hyundai,i20,2012,Weiß,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1563,"
+€ 4.300,-
+",63.700 km,04/2012,57 kW,Hyundai,i20,2012,Weiß,Limousine,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1564,"
+€ 5.999,-
+",48.950 km,12/2012,63 kW,Hyundai,i20,2012,Silber,Kleinwagen,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1565,"
+€ 6.200,-
+",74.000 km,09/2012,63 kW,Hyundai,i20,2012,Schwarz,Limousine,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1566,"
+€ 2.200,-
+",125.805 km,06/2013,63 kW,Hyundai,i20,2013,Weiß,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1567,"
+€ 4.200,-
+",100.000 km,10/2013,63 kW,Hyundai,i20,2013,Weiß,Kleinwagen,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1568,"
+€ 1.800,-
+",120.000 km,04/2014,63 kW,Hyundai,i20,2014,Weiß,Limousine,Benzin,,"
+1.248 cm³
+"
+1569,"
+€ 3.500,-
+",88.000 km,11/2014,63 kW,Hyundai,i20,2014,Weiß,Kleinwagen,Super 95,"
+Ja
+",no_data
+1570,"
+€ 3.999,-
+",49.805 km,12/2014,63 kW,Hyundai,i20,2014,Schwarz,Kleinwagen,Benzin,,no_data
+1571,"
+€ 4.380,-
+",90.000 km,04/2014,63 kW,Hyundai,i20,2014,Blau,Kleinwagen,Benzin,,no_data
+1572,"
+€ 4.900,-
+",73.500 km,10/2014,74 kW,Hyundai,i20,2014,Grau,Limousine,Benzin,,"
+1.396 cm³
+"
+1573,"
+€ 5.870,-
+",69.177 km,10/2014,63 kW,Hyundai,i20,2014,Blau,Limousine,Super 95,"
+Ja
+","
+1.248 cm³
+"
+1574,"
+€ 7.890,-
+",54.500 km,10/2014,63 kW,Hyundai,i20,2014,Grau,Limousine,Super E10 95,,"
+1.248 cm³
+"
+1575,"
+€ 2.500,-
+",16.000 km,05/2015,62 kW,Hyundai,i20,2015,Grau,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1576,"
+€ 2.600,-
+",74.000 km,12/2015,75 kW,Hyundai,i20,2015,Weiß,Coupé,Diesel,,"
+1.400 cm³
+"
+1577,"
+€ 7.250,-
+",56.000 km,11/2015,74 kW,Hyundai,i20,2015,Braun,Limousine,Benzin,,"
+1.368 cm³
+"
+1578,"
+€ 7.390,-
+",45.000 km,08/2015,62 kW,Hyundai,i20,2015,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
+1579,"
+€ 8.800,-
+",42.262 km,06/2015,55 kW,Hyundai,i20,2015,Grau,Limousine,Diesel,,"
+1.120 cm³
+"
+1580,"
+€ 9.250,-
+",23.100 km,06/2015,62 kW,Hyundai,i20,2015,Schwarz,Limousine,Benzin,"
+Ja
+","
+1.248 cm³
+"
+1581,"
+€ 6.980,-
+",58.100 km,05/2016,74 kW,Hyundai,i20,2016,Grau,Kleinwagen,Super 95,"
+Ja
+",no_data
+1582,"
+€ 7.999,-
+",50.221 km,09/2016,88 kW,Hyundai,i20,2016,Schwarz,Limousine,Benzin,no_data_about_accident,"
+998 cm³
+"
+1583,"
+€ 10.590,-
+",21.985 km,03/2016,74 kW,Hyundai,i20,2016,Braun,Sonstige,Super E10 95,,"
+1.368 cm³
+"
+1584,"
+€ 6.990,-
+",99.000 km,09/2017,55 kW,Hyundai,i20,2017,Kleinwagen,Schaltgetriebe,,"
+Ja
+",no_data
+1585,"
+€ 6.990,-
+",45.000 km,09/2017,74 kW,Hyundai,i20,2017,Grau,Limousine,Super 95,,"
+998 cm³
+"
+1586,"
+€ 6.800,-
+",3.343 km,09/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1587,"
+€ 6.999,-
+",75.191 km,06/2018,62 kW,Hyundai,i20,2018,Schwarz,Limousine,Benzin,no_data_about_accident,"
+1.248 cm³
+"
+1588,"
+€ 7.249,-
+",19.700 km,06/2019,55 kW,Hyundai,i20,2019,Schwarz,Limousine,Super 95,,"
+1.248 cm³
+"
+1589,"
+€ 7.950,-
+",560 km,07/2019,62 kW,Hyundai,i20,2019,Rot,Kleinwagen,Super 95,,no_data
+1590,"
+€ 10.980,-
+",12.274 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,"
+Ja
+","
+1.248 cm³
+"
+1591,"
+€ 11.000,-
+",14.288 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,"
+Ja
+","
+1.248 cm³
+"
+1592,"
+€ 11.000,-
+",11.456 km,03/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,"
+Ja
+","
+1.248 cm³
+"
+1593,"
+€ 11.280,-
+",14.599 km,03/2019,62 kW,Hyundai,i20,2019,Braun,Limousine,Super E10 95 / Super 95,"
+Ja
+","
+1.248 cm³
+"
+1594,"
+€ 11.340,-
+",15.463 km,04/2019,62 kW,Hyundai,i20,2019,Rot,Limousine,Super E10 95 / Super 95,"
+Ja
+","
+1.248 cm³
+"
+1595,"
+€ 11.750,-
+",13.000 km,06/2019,62 kW,Hyundai,i20,2019,Grau,Limousine,Benzin,,"
+1.248 cm³
+"
